@@ -1,0 +1,242 @@
+[
+  {
+    "name": "The Laundromat",
+    "visited": false,
+    "rating": "4.6 ",
+    "href": "/biz/the-laundromat-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "Closed" },
+      { "Wed": "8:00 AM - 2:00 PM" },
+      { "Thu": "8:00 AM - 2:00 PM" },
+      { "Fri": "8:00 AM - 2:00 PM" },
+      { "Sat": "8:00 AM - 2:00 PM" },
+      { "Sun": "9:00 AM - 2:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.775429, "longitude": -122.498842 }
+  },
+  {
+    "name": "Memento SF",
+    "visited": false,
+    "rating": "5.0 ",
+    "href": "/biz/memento-sf-san-francisco-3?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "5:00 PM - 9:30 PM" },
+      { "Wed": "5:00 PM - 9:30 PM" },
+      { "Thu": "5:00 PM - 10:00 PM" },
+      { "Fri": "5:00 PM - 10:00 PM" },
+      { "Sat": "5:00 PM - 10:00 PM" },
+      { "Sun": "Closed" }
+    ],
+    "coordinates": { "latitude": 37.751055, "longitude": -122.433798 }
+  },
+  {
+    "name": "Fermentation Lab",
+    "visited": false,
+    "rating": "4.9 ",
+    "href": "/biz/fermentation-lab-san-francisco-3?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "4:00 PM - 11:00 PM" },
+      { "Wed": "4:00 PM - 11:00 PM" },
+      { "Thu": "4:00 PM - 11:00 PM" },
+      { "Fri": "4:00 PM - 11:00 PM" },
+      { "Sat": "4:00 PM - 11:00 PM" },
+      { "Sun": "4:00 PM - 11:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.78571, "longitude": -122.430036 }
+  },
+  {
+    "name": "The Snug",
+    "visited": false,
+    "rating": "4.0 ",
+    "href": "/biz/the-snug-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "12:00 PM - 10:00 PM" },
+      { "Wed": "12:00 PM - 10:00 PM" },
+      { "Thu": "12:00 PM - 10:00 PM" },
+      { "Fri": "12:00 PM - 12:00 AM (Next day)" },
+      { "Sat": "12:00 PM - 12:00 AM (Next day)" },
+      { "Sun": "Closed" }
+    ],
+    "coordinates": { "latitude": 37.790835, "longitude": -122.434437 }
+  },
+  {
+    "name": "Marufuku Ramen",
+    "visited": false,
+    "rating": "4.4 ",
+    "href": "/biz/marufuku-ramen-san-francisco-5?osq=Restaurants",
+    "times": [
+      { "Mon": "11:00 AM - 10:00 PM" },
+      { "Tue": "11:00 AM - 10:00 PM" },
+      { "Wed": "11:00 AM - 10:00 PM" },
+      { "Thu": "11:00 AM - 10:00 PM" },
+      { "Fri": "11:00 AM - 10:00 PM" },
+      { "Sat": "11:00 AM - 10:00 PM" },
+      { "Sun": "11:00 AM - 10:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.785143, "longitude": -122.431634 }
+  },
+  {
+    "name": "Savor",
+    "visited": false,
+    "rating": "4.7 ",
+    "href": "/biz/savor-san-francisco-7?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "11:00 AM - 3:00 PM" },
+      { "Wed": "11:00 AM - 3:00 PM" },
+      { "Thu": "11:00 AM - 3:00 PM" },
+      { "Fri": "11:00 AM - 3:00 PM" },
+      { "Sat": "11:00 AM - 4:00 PM" },
+      { "Sun": "11:00 AM - 4:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.764083, "longitude": -122.462226 }
+  },
+  {
+    "name": "Bottega",
+    "visited": false,
+    "rating": "4.3 ",
+    "href": "/biz/bottega-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "11:00 AM - 11:00 PM" },
+      { "Tue": "11:00 AM - 11:00 PM" },
+      { "Wed": "11:00 AM - 11:00 PM" },
+      { "Thu": "11:00 AM - 11:00 PM" },
+      { "Fri": "11:00 AM - 12:00 AM (Next day)" },
+      { "Sat": "11:00 AM - 12:00 AM (Next day)" },
+      { "Sun": "11:00 AM - 11:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.75472, "longitude": -122.4212 }
+  },
+  {
+    "name": "little shucker",
+    "visited": false,
+    "rating": "4.7 ",
+    "href": "/biz/little-shucker-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "Closed" },
+      { "Wed": "11:00 AM - 10:00 PM" },
+      { "Thu": "11:00 AM - 10:00 PM" },
+      { "Fri": "11:00 AM - 10:00 PM" },
+      { "Sat": "11:00 AM - 10:00 PM" },
+      { "Sun": "11:00 AM - 10:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.788251, "longitude": -122.433532 }
+  },
+  {
+    "name": "Kuker",
+    "visited": false,
+    "rating": "4.8 ",
+    "href": "/biz/kuker-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "7:00 AM - 7:00 PM" },
+      { "Tue": "7:00 AM - 7:00 PM" },
+      { "Wed": "7:00 AM - 7:00 PM" },
+      { "Thu": "7:00 AM - 7:00 PM" },
+      { "Fri": "7:00 AM - 7:00 PM" },
+      { "Sat": "7:00 AM - 7:00 PM" },
+      { "Sun": "7:00 AM - 7:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.827325, "longitude": -122.374024 }
+  },
+  {
+    "name": "Dumpling Home",
+    "visited": false,
+    "rating": "4.5 ",
+    "href": "/biz/dumpling-home-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "11:30 AM - 2:15 PM" },
+      { "Tue": "11:30 AM - 2:15 PM" },
+      { "Wed": "11:30 AM - 2:15 PM" },
+      { "Thu": "11:30 AM - 2:15 PM" },
+      { "Fri": "11:30 AM - 2:15 PM" },
+      { "Sat": "11:30 AM - 2:15 PM" },
+      { "Sun": "11:30 AM - 2:15 PM" }
+    ],
+    "coordinates": { "latitude": 37.775831, "longitude": -122.422636 }
+  },
+  {
+    "name": "The Tailor’s Son",
+    "visited": false,
+    "rating": "4.2 ",
+    "href": "/biz/the-tailors-son-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "5:00 PM - 9:30 PM" },
+      { "Tue": "5:00 PM - 9:30 PM" },
+      { "Wed": "5:00 PM - 9:30 PM" },
+      { "Thu": "5:00 PM - 9:30 PM" },
+      { "Fri": "5:00 PM - 10:30 PM" },
+      { "Sat": "11:00 AM - 10:30 PM" },
+      { "Sun": "11:00 AM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.788611, "longitude": -122.43405 }
+  },
+  {
+    "name": "Pearl",
+    "visited": false,
+    "rating": "4.4 ",
+    "href": "/biz/pearl-san-francisco-8?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "5:00 PM - 9:15 PM" },
+      { "Wed": "5:00 PM - 9:15 PM" },
+      { "Thu": "5:00 PM - 9:15 PM" },
+      { "Fri": "5:00 PM - 9:15 PM" },
+      { "Sat": "5:00 PM - 9:15 PM" },
+      { "Sun": "5:00 PM - 9:15 PM" }
+    ],
+    "coordinates": { "latitude": 37.783839, "longitude": -122.483083 }
+  },
+  {
+    "name": "Otra",
+    "visited": false,
+    "rating": "4.5 ",
+    "href": "/biz/otra-san-francisco-3?osq=Restaurants",
+    "times": [
+      { "Mon": "4:30 PM - 10:00 PM" },
+      { "Tue": "4:30 PM - 10:00 PM" },
+      { "Wed": "4:30 PM - 10:00 PM" },
+      { "Thu": "4:30 PM - 10:00 PM" },
+      { "Fri": "4:30 PM - 10:00 PM" },
+      { "Sat": "10:00 AM - 3:00 PM" },
+      { "Sun": "10:00 AM - 3:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.771928, "longitude": -122.433475 }
+  },
+  {
+    "name": "Dumpling Story",
+    "visited": false,
+    "rating": "4.7 ",
+    "href": "/biz/dumpling-story-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "11:30 AM - 2:15 PM" },
+      { "Tue": "11:30 AM - 2:15 PM" },
+      { "Wed": "11:30 AM - 2:15 PM" },
+      { "Thu": "11:30 AM - 2:15 PM" },
+      { "Fri": "11:30 AM - 2:15 PM" },
+      { "Sat": "11:30 AM - 2:15 PM" },
+      { "Sun": "11:30 AM - 2:15 PM" }
+    ],
+    "coordinates": { "latitude": 37.789307, "longitude": -122.433806 }
+  },
+  {
+    "name": "Katsuo + Kombu",
+    "visited": false,
+    "rating": "4.5 ",
+    "href": "/biz/katsuo-kombu-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "4:30 PM - 9:30 PM" },
+      { "Tue": "4:30 PM - 9:30 PM" },
+      { "Wed": "4:30 PM - 9:30 PM" },
+      { "Thu": "4:30 PM - 9:30 PM" },
+      { "Fri": "4:30 PM - 9:30 PM" },
+      { "Sat": "4:30 PM - 9:30 PM" },
+      { "Sun": "Closed" }
+    ],
+    "coordinates": { "latitude": 37.774801, "longitude": -122.437985 }
+  }
+]

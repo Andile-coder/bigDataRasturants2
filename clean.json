@@ -32,6 +32,54 @@
     "coordinates": { "latitude": 37.751055, "longitude": -122.433798 }
   },
   {
+    "name": "Ben Thai Cafe",
+    "visited": false,
+    "rating": "4.4 ",
+    "href": "/biz/ben-thai-cafe-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "11:30 AM - 3:00 PM" },
+      { "Tue": "11:30 AM - 3:00 PM" },
+      { "Wed": "11:30 AM - 3:00 PM" },
+      { "Thu": "11:30 AM - 3:00 PM" },
+      { "Fri": "11:30 AM - 3:00 PM" },
+      { "Sat": "11:30 AM - 10:00 PM" },
+      { "Sun": "11:30 AM - 9:30 PM" }
+    ],
+    "coordinates": { "latitude": 37.789227, "longitude": -122.420563 }
+  },
+  {
+    "name": "Cha Cha Cha",
+    "visited": false,
+    "rating": "3.9 ",
+    "href": "/biz/cha-cha-cha-san-francisco-4?osq=Restaurants",
+    "times": [
+      { "Mon": "12:00 PM - 10:00 PM" },
+      { "Tue": "12:00 PM - 10:00 PM" },
+      { "Wed": "12:00 PM - 10:00 PM" },
+      { "Thu": "12:00 PM - 10:00 PM" },
+      { "Fri": "12:00 PM - 10:00 PM" },
+      { "Sat": "12:00 PM - 10:00 PM" },
+      { "Sun": "12:00 PM - 10:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.769143, "longitude": -122.45204 }
+  },
+  {
+    "name": "Roma Antica",
+    "visited": false,
+    "rating": "4.5 ",
+    "href": "/biz/roma-antica-san-francisco-3?osq=Restaurants",
+    "times": [
+      { "Mon": "11:00 AM - 10:00 PM" },
+      { "Tue": "11:00 AM - 10:00 PM" },
+      { "Wed": "11:00 AM - 10:00 PM" },
+      { "Thu": "11:00 AM - 10:00 PM" },
+      { "Fri": "11:00 AM - 11:00 PM" },
+      { "Sat": "11:00 AM - 11:00 PM" },
+      { "Sun": "11:00 AM - 10:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.799872, "longitude": -122.440969 }
+  },
+  {
     "name": "Fermentation Lab",
     "visited": false,
     "rating": "4.9 ",
@@ -238,5 +286,3364 @@
       { "Sun": "Closed" }
     ],
     "coordinates": { "latitude": 37.774801, "longitude": -122.437985 }
+  },
+  {
+    "name": "Lokma",
+    "visited": false,
+    "rating": "4.6 ",
+    "href": "/biz/lokma-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "4:00 PM - 8:30 PM" },
+      { "Tue": "4:00 PM - 8:30 PM" },
+      { "Wed": "4:00 PM - 8:30 PM" },
+      { "Thu": "10:00 AM - 2:30 PM" },
+      { "Fri": "10:00 AM - 2:30 PM" },
+      { "Sat": "9:30 AM - 2:30 PM" },
+      { "Sun": "9:30 AM - 2:30 PM" }
+    ],
+    "coordinates": { "latitude": 37.782186, "longitude": -122.478677 }
+  },
+  {
+    "name": "Oodle Yunnan Rice Noodle",
+    "visited": false,
+    "rating": "4.7 ",
+    "href": "/biz/oodle-yunnan-rice-noodle-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "11:00 AM - 8:00 PM" },
+      { "Tue": "11:00 AM - 8:00 PM" },
+      { "Wed": "11:00 AM - 8:00 PM" },
+      { "Thu": "11:00 AM - 8:00 PM" },
+      { "Fri": "11:00 AM - 8:00 PM" },
+      { "Sat": "11:00 AM - 8:00 PM" },
+      { "Sun": "11:00 AM - 8:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.776005, "longitude": -122.495635 }
+  },
+  {
+    "name": "Bento Peak",
+    "visited": false,
+    "rating": "4.6 ",
+    "href": "/biz/bento-peak-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "4:30 PM - 9:30 PM" },
+      { "Tue": "4:30 PM - 9:30 PM" },
+      { "Wed": "4:30 PM - 9:30 PM" },
+      { "Thu": "4:30 PM - 9:30 PM" },
+      { "Fri": "4:30 PM - 9:30 PM" },
+      { "Sat": "12:00 PM - 9:30 PM" },
+      { "Sun": "12:00 PM - 9:30 PM" }
+    ],
+    "coordinates": { "latitude": 37.781089, "longitude": -122.470207 }
+  },
+  {
+    "name": "Starbelly",
+    "visited": false,
+    "rating": "3.8 ",
+    "href": "/biz/starbelly-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "11:00 AM - 9:00 PM" },
+      { "Tue": "11:00 AM - 9:00 PM" },
+      { "Wed": "11:00 AM - 9:00 PM" },
+      { "Thu": "11:00 AM - 9:00 PM" },
+      { "Fri": "11:00 AM - 10:00 PM" },
+      { "Sat": "10:00 AM - 10:00 PM" },
+      { "Sun": "10:00 AM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.764075, "longitude": -122.432572 }
+  },
+  {
+    "name": "Wooden Spoon",
+    "visited": false,
+    "rating": "4.4 ",
+    "href": "/biz/wooden-spoon-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "8:00 AM - 3:00 PM" },
+      { "Tue": "8:00 AM - 3:00 PM" },
+      { "Wed": "8:00 AM - 3:00 PM" },
+      { "Thu": "8:00 AM - 3:00 PM" },
+      { "Fri": "8:00 AM - 3:00 PM" },
+      { "Sat": "8:00 AM - 3:00 PM" },
+      { "Sun": "8:00 AM - 3:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.766616, "longitude": -122.43041 }
+  },
+  {
+    "name": "NONO",
+    "visited": false,
+    "rating": "4.4 ",
+    "href": "/biz/nono-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "5:00 PM - 10:00 PM" },
+      { "Tue": "Closed" },
+      { "Wed": "5:00 PM - 10:00 PM" },
+      { "Thu": "5:00 PM - 10:00 PM" },
+      { "Fri": "5:00 PM - 12:00 AM (Next day)" },
+      { "Sat": "5:00 PM - 12:00 AM (Next day)" },
+      { "Sun": "5:00 PM - 10:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.785686, "longitude": -122.432903 }
+  },
+  {
+    "name": "Mattina",
+    "visited": false,
+    "rating": "4.0 ",
+    "href": "/biz/mattina-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "Closed" },
+      { "Wed": "Closed" },
+      { "Thu": "8:00 AM - 3:00 PM" },
+      { "Fri": "8:00 AM - 9:00 PM" },
+      { "Sat": "8:00 AM - 9:00 PM" },
+      { "Sun": "8:00 AM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.787223, "longitude": -122.434152 }
+  },
+  {
+    "name": "Lily",
+    "visited": false,
+    "rating": "4.3 ",
+    "href": "/biz/lily-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "5:00 PM - 9:00 PM" },
+      { "Tue": "Closed" },
+      { "Wed": "5:00 PM - 9:00 PM" },
+      { "Thu": "5:00 PM - 9:00 PM" },
+      { "Fri": "11:00 AM - 2:00 PM" },
+      { "Sat": "11:00 AM - 2:00 PM" },
+      { "Sun": "11:00 AM - 2:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.782853, "longitude": -122.461696 }
+  },
+  {
+    "name": "Kothai Republic",
+    "visited": false,
+    "rating": "4.7 ",
+    "href": "/biz/kothai-republic-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "5:30 PM - 9:30 PM" },
+      { "Wed": "5:30 PM - 9:30 PM" },
+      { "Thu": "5:30 PM - 9:30 PM" },
+      { "Fri": "5:00 PM - 10:00 PM" },
+      { "Sat": "11:00 AM - 2:00 PM" },
+      { "Sun": "12:00 PM - 8:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.762327, "longitude": -122.466044 }
+  },
+  {
+    "name": "Bistro Ember",
+    "visited": false,
+    "rating": "4.8 ",
+    "href": "/biz/bistro-ember-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "5:00 PM - 10:00 PM" },
+      { "Wed": "5:00 PM - 10:00 PM" },
+      { "Thu": "5:00 PM - 10:00 PM" },
+      { "Fri": "10:00 AM - 2:00 PM" },
+      { "Sat": "10:00 AM - 2:00 PM" },
+      { "Sun": "10:00 AM - 2:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.750213, "longitude": -122.427569 }
+  },
+  {
+    "name": "The Italian Homemade Company",
+    "visited": false,
+    "rating": "4.3 ",
+    "href": "/biz/the-italian-homemade-company-san-francisco-6?osq=Restaurants",
+    "times": [
+      { "Mon": "11:00 AM - 9:30 PM" },
+      { "Tue": "11:00 AM - 9:30 PM" },
+      { "Wed": "11:00 AM - 9:30 PM" },
+      { "Thu": "11:00 AM - 9:30 PM" },
+      { "Fri": "11:00 AM - 10:00 PM" },
+      { "Sat": "11:00 AM - 10:00 PM" },
+      { "Sun": "11:00 AM - 9:30 PM" }
+    ],
+    "coordinates": { "latitude": 37.797574, "longitude": -122.431021 }
+  },
+  {
+    "name": "JIJIME",
+    "visited": false,
+    "rating": "4.3 ",
+    "href": "/biz/jijime-san-francisco-8?osq=Restaurants",
+    "times": [
+      { "Mon": "5:00 PM - 9:00 PM" },
+      { "Tue": "5:00 PM - 9:00 PM" },
+      { "Wed": "5:00 PM - 9:00 PM" },
+      { "Thu": "5:00 PM - 9:00 PM" },
+      { "Fri": "12:00 PM - 9:00 PM" },
+      { "Sat": "11:30 AM - 9:00 PM" },
+      { "Sun": "11:30 AM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.780655, "longitude": -122.47895 }
+  },
+  {
+    "name": "Cafe de Casa",
+    "visited": false,
+    "rating": "4.6 ",
+    "href": "/biz/cafe-de-casa-san-francisco-4?osq=Restaurants",
+    "times": [
+      { "Mon": "8:00 AM - 7:00 PM" },
+      { "Tue": "8:00 AM - 7:00 PM" },
+      { "Wed": "8:00 AM - 7:00 PM" },
+      { "Thu": "8:00 AM - 7:00 PM" },
+      { "Fri": "8:00 AM - 7:00 PM" },
+      { "Sat": "8:00 AM - 7:00 PM" },
+      { "Sun": "8:00 AM - 5:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.762338, "longitude": -122.43481 }
+  },
+  {
+    "name": "Beit Rima",
+    "visited": false,
+    "rating": "4.3 ",
+    "href": "/biz/beit-rima-san-francisco-4?osq=Restaurants",
+    "times": [
+      { "Mon": "11:00 AM - 9:00 PM" },
+      { "Tue": "Closed" },
+      { "Wed": "11:00 AM - 9:00 PM" },
+      { "Thu": "11:00 AM - 9:00 PM" },
+      { "Fri": "11:00 AM - 9:30 PM" },
+      { "Sat": "11:00 AM - 9:30 PM" },
+      { "Sun": "11:00 AM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.765978, "longitude": -122.449665 }
+  },
+  {
+    "name": "opa cafe",
+    "visited": false,
+    "rating": "4.6 ",
+    "href": "/biz/opa-cafe-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "7:30 AM - 9:00 PM" },
+      { "Tue": "7:30 AM - 9:00 PM" },
+      { "Wed": "7:30 AM - 9:00 PM" },
+      { "Thu": "7:30 AM - 9:00 PM" },
+      { "Fri": "7:30 AM - 9:00 PM" },
+      { "Sat": "8:00 AM - 4:00 PM" },
+      { "Sun": "Closed" }
+    ],
+    "coordinates": { "latitude": 37.783966, "longitude": -122.441526 }
+  },
+  {
+    "name": "C.Q. Noodles",
+    "visited": false,
+    "rating": "4.6 ",
+    "href": "/biz/c-q-noodles-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "11:30 AM - 10:30 PM" },
+      { "Tue": "5:00 PM - 10:30 PM" },
+      { "Wed": "11:30 AM - 10:30 PM" },
+      { "Thu": "11:30 AM - 10:30 PM" },
+      { "Fri": "11:00 AM - 11:45 PM" },
+      { "Sat": "11:00 AM - 12:00 AM (Next day)" },
+      { "Sun": "11:00 AM - 10:30 PM" }
+    ],
+    "coordinates": { "latitude": 37.7822, "longitude": -122.482093 }
+  },
+  {
+    "name": "Kitchen Story",
+    "visited": false,
+    "rating": "4.1 ",
+    "href": "/biz/kitchen-story-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "9:00 AM - 2:00 PM" },
+      { "Tue": "9:00 AM - 2:00 PM" },
+      { "Wed": "9:00 AM - 2:00 PM" },
+      { "Thu": "9:00 AM - 2:00 PM" },
+      { "Fri": "9:00 AM - 2:00 PM" },
+      { "Sat": "9:00 AM - 2:30 PM" },
+      { "Sun": "9:00 AM - 2:30 PM" }
+    ],
+    "coordinates": { "latitude": 37.764291, "longitude": -122.430724 }
+  },
+  {
+    "name": "Oraan Thai Eatery",
+    "visited": false,
+    "rating": "4.9 ",
+    "href": "/biz/oraan-thai-eatery-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "11:00 AM - 2:30 PM" },
+      { "Tue": "11:00 AM - 2:30 PM" },
+      { "Wed": "11:00 AM - 2:30 PM" },
+      { "Thu": "11:00 AM - 2:30 PM" },
+      { "Fri": "11:00 AM - 2:30 PM" },
+      { "Sat": "11:00 AM - 2:30 PM" },
+      { "Sun": "11:00 AM - 2:30 PM" }
+    ],
+    "coordinates": { "latitude": 37.781453, "longitude": -122.459838 }
+  },
+  {
+    "name": "Blind Butcher",
+    "visited": false,
+    "rating": "4.0 ",
+    "href": "/biz/blind-butcher-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "5:00 PM - 10:00 PM" },
+      { "Tue": "5:00 PM - 10:00 PM" },
+      { "Wed": "5:00 PM - 10:00 PM" },
+      { "Thu": "5:00 PM - 10:00 PM" },
+      { "Fri": "5:00 PM - 10:00 PM" },
+      { "Sat": "11:00 AM - 10:00 PM" },
+      { "Sun": "11:00 AM - 10:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.761128, "longitude": -122.434095 }
+  },
+  {
+    "name": "Dumpling Kitchen",
+    "visited": false,
+    "rating": "4.1 ",
+    "href": "/biz/dumpling-kitchen-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "11:00 AM - 3:00 PM" },
+      { "Tue": "11:00 AM - 3:00 PM" },
+      { "Wed": "Closed" },
+      { "Thu": "11:00 AM - 3:00 PM" },
+      { "Fri": "11:00 AM - 3:00 PM" },
+      { "Sat": "10:30 AM - 9:00 PM" },
+      { "Sun": "10:30 AM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.74234, "longitude": -122.487048 }
+  },
+  {
+    "name": "CreoLa",
+    "visited": false,
+    "rating": "4.5 ",
+    "href": "/biz/creola-san-francisco-3?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "5:00 PM - 9:00 PM" },
+      { "Wed": "5:00 PM - 9:00 PM" },
+      { "Thu": "11:30 AM - 3:00 PM" },
+      { "Fri": "11:30 AM - 3:00 PM" },
+      { "Sat": "11:00 AM - 9:00 PM" },
+      { "Sun": "11:00 AM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.766272, "longitude": -122.452728 }
+  },
+  {
+    "name": "Sotto Mare",
+    "visited": false,
+    "rating": "4.3 ",
+    "href": "/biz/sotto-mare-san-francisco-4?osq=Restaurants",
+    "times": [
+      { "Mon": "11:30 AM - 9:00 PM" },
+      { "Tue": "11:30 AM - 9:00 PM" },
+      { "Wed": "11:30 AM - 9:00 PM" },
+      { "Thu": "11:30 AM - 9:00 PM" },
+      { "Fri": "11:30 AM - 10:00 PM" },
+      { "Sat": "11:30 AM - 10:00 PM" },
+      { "Sun": "11:30 AM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.799699, "longitude": -122.408361 }
+  },
+  {
+    "name": "Santeria",
+    "visited": false,
+    "rating": "4.4 ",
+    "href": "/biz/santeria-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "3:00 PM - 10:00 PM" },
+      { "Tue": "3:00 PM - 10:00 PM" },
+      { "Wed": "3:00 PM - 10:00 PM" },
+      { "Thu": "3:00 PM - 10:00 PM" },
+      { "Fri": "12:00 PM - 11:00 PM" },
+      { "Sat": "11:00 AM - 11:00 PM" },
+      { "Sun": "11:00 AM - 10:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.76489, "longitude": -122.431787 }
+  },
+  {
+    "name": "Nopa",
+    "visited": false,
+    "rating": "4.2 ",
+    "href": "/biz/nopa-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "5:30 PM - 10:00 PM" },
+      { "Tue": "5:30 PM - 10:00 PM" },
+      { "Wed": "5:30 PM - 10:00 PM" },
+      { "Thu": "5:30 PM - 10:00 PM" },
+      { "Fri": "5:30 PM - 11:00 PM" },
+      { "Sat": "5:30 PM - 11:00 PM" },
+      { "Sun": "5:30 PM - 10:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.774893, "longitude": -122.437567 }
+  },
+  {
+    "name": "Sweet Maple",
+    "visited": false,
+    "rating": "4.3 ",
+    "href": "/biz/sweet-maple-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "8:00 AM - 2:30 PM" },
+      { "Tue": "8:00 AM - 2:30 PM" },
+      { "Wed": "8:00 AM - 2:30 PM" },
+      { "Thu": "8:00 AM - 2:30 PM" },
+      { "Fri": "8:00 AM - 2:30 PM" },
+      { "Sat": "8:00 AM - 3:00 PM" },
+      { "Sun": "8:00 AM - 3:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.7858, "longitude": -122.435104 }
+  },
+  {
+    "name": "Pinsa Rossa",
+    "visited": false,
+    "rating": "4.6 ",
+    "href": "/biz/pinsa-rossa-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "4:30 PM - 9:00 PM" },
+      { "Tue": "4:30 PM - 9:00 PM" },
+      { "Wed": "4:30 PM - 9:00 PM" },
+      { "Thu": "4:30 PM - 9:00 PM" },
+      { "Fri": "4:30 PM - 10:00 PM" },
+      { "Sat": "12:00 PM - 10:00 PM" },
+      { "Sun": "12:00 PM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.788966, "longitude": -122.433975 }
+  },
+  {
+    "name": "Frances",
+    "visited": false,
+    "rating": "4.3 ",
+    "href": "/biz/frances-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "5:15 PM - 9:15 PM" },
+      { "Wed": "5:15 PM - 9:15 PM" },
+      { "Thu": "5:15 PM - 9:15 PM" },
+      { "Fri": "5:15 PM - 9:15 PM" },
+      { "Sat": "5:15 PM - 9:15 PM" },
+      { "Sun": "Closed" }
+    ],
+    "coordinates": { "latitude": 37.762768, "longitude": -122.432252 }
+  },
+  {
+    "name": "Blue Whale",
+    "visited": false,
+    "rating": "4.7 ",
+    "href": "/biz/blue-whale-san-francisco?osq=Restaurants",
+    "times": [],
+    "coordinates": { "latitude": 37.79725, "longitude": -122.43282 }
+  },
+  {
+    "name": "Noodle in a Haystack",
+    "visited": false,
+    "rating": "4.8 ",
+    "href": "/biz/noodle-in-a-haystack-san-francisco?osq=Restaurants",
+    "times": [],
+    "coordinates": { "latitude": 37.780664, "longitude": -122.468722 }
+  },
+  {
+    "name": "Best Kept Secret",
+    "visited": false,
+    "rating": "4.3 ",
+    "href": "/biz/best-kept-secret-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "Closed" },
+      { "Wed": "6:00 PM - 12:00 AM (Next day)" },
+      { "Thu": "6:00 PM - 1:00 AM (Next day)" },
+      { "Fri": "6:00 PM - 2:00 AM (Next day)" },
+      { "Sat": "6:00 PM - 2:00 AM (Next day)" },
+      { "Sun": "Closed" }
+    ],
+    "coordinates": { "latitude": 37.742753, "longitude": -122.477638 }
+  },
+  {
+    "name": "Horsefeather",
+    "visited": false,
+    "rating": "4.0 ",
+    "href": "/biz/horsefeather-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "2:00 PM - 12:00 AM (Next day)" },
+      { "Tue": "2:00 PM - 12:00 AM (Next day)" },
+      { "Wed": "2:00 PM - 12:00 AM (Next day)" },
+      { "Thu": "2:00 PM - 12:00 AM (Next day)" },
+      { "Fri": "2:00 PM - 2:00 AM (Next day)" },
+      { "Sat": "11:00 AM - 2:00 AM (Next day)" },
+      { "Sun": "11:00 AM - 12:00 AM (Next day)" }
+    ],
+    "coordinates": { "latitude": 37.774499, "longitude": -122.437457 }
+  },
+  {
+    "name": "Fable",
+    "visited": false,
+    "rating": "4.1 ",
+    "href": "/biz/fable-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "11:30 AM - 9:00 PM" },
+      { "Tue": "11:00 AM - 9:30 PM" },
+      { "Wed": "11:00 AM - 9:30 PM" },
+      { "Thu": "11:00 AM - 9:30 PM" },
+      { "Fri": "11:00 AM - 9:30 PM" },
+      { "Sat": "10:00 AM - 2:30 PM" },
+      { "Sun": "10:00 AM - 2:30 PM" }
+    ],
+    "coordinates": { "latitude": 37.759958, "longitude": -122.435089 }
+  },
+  {
+    "name": "Fog Harbor Fish House",
+    "visited": false,
+    "rating": "4.3 ",
+    "href": "/biz/fog-harbor-fish-house-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "11:00 AM - 9:00 PM" },
+      { "Tue": "11:00 AM - 9:00 PM" },
+      { "Wed": "11:00 AM - 9:00 PM" },
+      { "Thu": "11:00 AM - 9:00 PM" },
+      { "Fri": "11:00 AM - 10:00 PM" },
+      { "Sat": "11:00 AM - 10:00 PM" },
+      { "Sun": "11:00 AM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.808673, "longitude": -122.409821 }
+  },
+  {
+    "name": "Lavash",
+    "visited": false,
+    "rating": "4.2 ",
+    "href": "/biz/lavash-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "5:00 PM - 9:00 PM" },
+      { "Wed": "5:00 PM - 9:00 PM" },
+      { "Thu": "12:00 PM - 9:00 PM" },
+      { "Fri": "12:00 PM - 9:00 PM" },
+      { "Sat": "12:00 PM - 9:00 PM" },
+      { "Sun": "12:00 PM - 8:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.76407, "longitude": -122.463424 }
+  },
+  {
+    "name": "La Sarrasine",
+    "visited": false,
+    "rating": "4.7 ",
+    "href": "/biz/la-sarrasine-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "11:00 AM - 9:00 PM" },
+      { "Tue": "11:00 AM - 9:00 PM" },
+      { "Wed": "11:00 AM - 9:00 PM" },
+      { "Thu": "11:00 AM - 9:00 PM" },
+      { "Fri": "11:00 AM - 9:00 PM" },
+      { "Sat": "10:00 AM - 9:00 PM" },
+      { "Sun": "10:00 AM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.775245, "longitude": -122.43806 }
+  },
+  {
+    "name": "Matsuyama Shabu House",
+    "visited": false,
+    "rating": "4.5 ",
+    "href": "/biz/matsuyama-shabu-house-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "5:00 PM - 10:00 PM" },
+      { "Tue": "5:00 PM - 10:00 PM" },
+      { "Wed": "Closed" },
+      { "Thu": "5:00 PM - 10:00 PM" },
+      { "Fri": "5:00 PM - 10:30 PM" },
+      { "Sat": "12:00 PM - 3:00 PM" },
+      { "Sun": "12:00 PM - 3:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.786052, "longitude": -122.429805 }
+  },
+  {
+    "name": "Jamie’s Place",
+    "visited": false,
+    "rating": "4.5 ",
+    "href": "/biz/jamies-place-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "8:30 AM - 3:00 PM" },
+      { "Tue": "8:30 AM - 3:00 PM" },
+      { "Wed": "8:30 AM - 3:00 PM" },
+      { "Thu": "8:30 AM - 3:00 PM" },
+      { "Fri": "8:30 AM - 3:00 PM" },
+      { "Sat": "8:00 AM - 3:00 PM" },
+      { "Sun": "8:00 AM - 3:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.762607, "longitude": -122.466084 }
+  },
+  {
+    "name": "Copra",
+    "visited": false,
+    "rating": "4.1 ",
+    "href": "/biz/copra-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "5:00 PM - 10:00 PM" },
+      { "Wed": "5:00 PM - 10:00 PM" },
+      { "Thu": "5:00 PM - 10:00 PM" },
+      { "Fri": "5:00 PM - 10:00 PM" },
+      { "Sat": "5:00 PM - 10:00 PM" },
+      { "Sun": "5:00 PM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.785384, "longitude": -122.432789 }
+  },
+  {
+    "name": "Daeho Kalbijjim &amp; Beef Soup",
+    "visited": false,
+    "rating": "4.5 ",
+    "href": "/biz/daeho-kalbijjim-and-beef-soup-san-francisco-9?osq=Restaurants",
+    "times": [
+      { "Mon": "11:00 AM - 2:30 PM" },
+      { "Tue": "11:00 AM - 2:30 PM" },
+      { "Wed": "11:00 AM - 2:30 PM" },
+      { "Thu": "11:00 AM - 2:30 PM" },
+      { "Fri": "11:00 AM - 2:30 PM" },
+      { "Sat": "10:30 AM - 2:30 PM" },
+      { "Sun": "10:30 AM - 2:30 PM" }
+    ],
+    "coordinates": { "latitude": 37.785927, "longitude": -122.428565 }
+  },
+  {
+    "name": "Tastebuds",
+    "visited": false,
+    "rating": "4.2 ",
+    "href": "/biz/tastebuds-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "9:00 AM - 3:00 PM" },
+      { "Tue": "9:00 AM - 3:00 PM" },
+      { "Wed": "9:00 AM - 3:00 PM" },
+      { "Thu": "9:00 AM - 3:00 PM" },
+      { "Fri": "9:00 AM - 3:00 PM" },
+      { "Sat": "9:00 AM - 3:00 PM" },
+      { "Sun": "9:00 AM - 3:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.777158, "longitude": -122.462669 }
+  },
+  {
+    "name": "Limoncello",
+    "visited": false,
+    "rating": "4.8 ",
+    "href": "/biz/limoncello-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "9:00 AM - 8:00 PM" },
+      { "Tue": "9:00 AM - 8:00 PM" },
+      { "Wed": "9:00 AM - 8:00 PM" },
+      { "Thu": "9:00 AM - 8:00 PM" },
+      { "Fri": "9:00 AM - 9:00 PM" },
+      { "Sat": "9:00 AM - 9:00 PM" },
+      { "Sun": "9:00 AM - 8:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.787318, "longitude": -122.423591 }
+  },
+  {
+    "name": "KAIYŌ Rooftop",
+    "visited": false,
+    "rating": "3.8 ",
+    "href": "/biz/kaiy%C5%8D-rooftop-san-francisco-5?osq=Restaurants",
+    "times": [
+      { "Mon": "4:00 PM - 12:00 AM (Next day)" },
+      { "Tue": "4:00 PM - 12:00 AM (Next day)" },
+      { "Wed": "4:00 PM - 12:00 AM (Next day)" },
+      { "Thu": "4:00 PM - 12:00 AM (Next day)" },
+      { "Fri": "2:00 PM - 1:00 AM (Next day)" },
+      { "Sat": "11:00 AM - 1:00 AM (Next day)" },
+      { "Sun": "11:00 AM - 10:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.778856, "longitude": -122.392414 }
+  },
+  {
+    "name": "Tanglad",
+    "visited": false,
+    "rating": "4.5 ",
+    "href": "/biz/tanglad-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "11:00 AM - 9:00 PM" },
+      { "Tue": "11:00 AM - 9:00 PM" },
+      { "Wed": "11:00 AM - 9:00 PM" },
+      { "Thu": "11:00 AM - 9:00 PM" },
+      { "Fri": "11:00 AM - 10:00 PM" },
+      { "Sat": "11:00 AM - 10:00 PM" },
+      { "Sun": "11:00 AM - 10:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.761507, "longitude": -122.434808 }
+  },
+  {
+    "name": "Sunset29 BBQ",
+    "visited": false,
+    "rating": "5.0 ",
+    "href": "/biz/sunset29-bbq-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "10:00 AM - 5:00 PM" },
+      { "Tue": "9:00 AM - 5:00 PM" },
+      { "Wed": "9:00 AM - 5:00 PM" },
+      { "Thu": "9:00 AM - 5:00 PM" },
+      { "Fri": "9:00 AM - 5:00 PM" },
+      { "Sat": "Closed" },
+      { "Sun": "Closed" }
+    ],
+    "coordinates": { "latitude": 37.744607, "longitude": -122.486167 }
+  },
+  {
+    "name": "Zazie",
+    "visited": false,
+    "rating": "4.2 ",
+    "href": "/biz/zazie-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "8:00 AM - 2:00 PM" },
+      { "Tue": "8:00 AM - 2:00 PM" },
+      { "Wed": "8:00 AM - 2:00 PM" },
+      { "Thu": "8:00 AM - 2:00 PM" },
+      { "Fri": "8:00 AM - 2:00 PM" },
+      { "Sat": "9:00 AM - 3:00 PM" },
+      { "Sun": "9:00 AM - 3:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.765257, "longitude": -122.450002 }
+  },
+  {
+    "name": "Gao Viet Kitchen &amp; Bar",
+    "visited": false,
+    "rating": "4.3 ",
+    "href": "/biz/gao-viet-kitchen-and-bar-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "Closed" },
+      { "Wed": "4:30 PM - 10:00 PM" },
+      { "Thu": "4:30 PM - 10:00 PM" },
+      { "Fri": "11:30 AM - 3:00 PM" },
+      { "Sat": "11:30 AM - 3:00 PM" },
+      { "Sun": "11:30 AM - 3:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.763721, "longitude": -122.478514 }
+  },
+  {
+    "name": "Beit Rima",
+    "visited": false,
+    "rating": "4.5 ",
+    "href": "/biz/beit-rima-san-francisco-3?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "11:00 AM - 9:00 PM" },
+      { "Wed": "11:00 AM - 9:00 PM" },
+      { "Thu": "11:00 AM - 9:00 PM" },
+      { "Fri": "11:00 AM - 9:30 PM" },
+      { "Sat": "11:00 AM - 9:30 PM" },
+      { "Sun": "11:00 AM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.768723, "longitude": -122.429281 }
+  },
+  {
+    "name": "Manitas Cafe",
+    "visited": false,
+    "rating": "4.6 ",
+    "href": "/biz/manitas-cafe-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "8:00 AM - 8:00 PM" },
+      { "Wed": "8:00 AM - 8:00 PM" },
+      { "Thu": "8:00 AM - 8:00 PM" },
+      { "Fri": "8:00 AM - 8:00 PM" },
+      { "Sat": "8:00 AM - 8:00 PM" },
+      { "Sun": "8:00 AM - 2:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.77356, "longitude": -122.45069 }
+  },
+  {
+    "name": "Ollei",
+    "visited": false,
+    "rating": "4.5 ",
+    "href": "/biz/ollei-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "11:30 AM - 11:00 PM" },
+      { "Tue": "11:30 AM - 11:00 PM" },
+      { "Wed": "11:30 AM - 11:00 PM" },
+      { "Thu": "11:30 AM - 1:00 AM (Next day)" },
+      { "Fri": "11:30 AM - 1:00 AM (Next day)" },
+      { "Sat": "11:30 AM - 1:00 AM (Next day)" },
+      { "Sun": "11:30 AM - 11:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.796393, "longitude": -122.422084 }
+  },
+  {
+    "name": "Nopalito",
+    "visited": false,
+    "rating": "3.8 ",
+    "href": "/biz/nopalito-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "11:30 AM - 9:00 PM" },
+      { "Wed": "11:30 AM - 9:00 PM" },
+      { "Thu": "11:30 AM - 9:00 PM" },
+      { "Fri": "11:30 AM - 10:00 PM" },
+      { "Sat": "11:30 AM - 10:00 PM" },
+      { "Sun": "11:30 AM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.773435, "longitude": -122.438993 }
+  },
+  {
+    "name": "Hook Fish",
+    "visited": false,
+    "rating": "4.3 ",
+    "href": "/biz/hook-fish-san-francisco-6?osq=Restaurants",
+    "times": [
+      { "Mon": "11:30 AM - 9:00 PM" },
+      { "Tue": "11:30 AM - 9:00 PM" },
+      { "Wed": "11:30 AM - 9:00 PM" },
+      { "Thu": "11:30 AM - 9:00 PM" },
+      { "Fri": "11:30 AM - 9:00 PM" },
+      { "Sat": "11:30 AM - 9:00 PM" },
+      { "Sun": "11:30 AM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.762398, "longitude": -122.506865 }
+  },
+  {
+    "name": "Beretta Divisadero",
+    "visited": false,
+    "rating": "4.2 ",
+    "href": "/biz/beretta-divisadero-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "5:00 PM - 10:00 PM" },
+      { "Tue": "5:00 PM - 10:00 PM" },
+      { "Wed": "5:00 PM - 10:00 PM" },
+      { "Thu": "5:00 PM - 10:00 PM" },
+      { "Fri": "4:00 PM - 11:00 PM" },
+      { "Sat": "11:00 AM - 11:00 PM" },
+      { "Sun": "11:00 AM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.775743, "longitude": -122.438253 }
+  },
+  {
+    "name": "That’s My Jam",
+    "visited": false,
+    "rating": "4.8 ",
+    "href": "/biz/thats-my-jam-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "Closed" },
+      { "Wed": "Closed" },
+      { "Thu": "Closed" },
+      { "Fri": "9:00 AM - 3:00 PM" },
+      { "Sat": "9:00 AM - 9:00 PM" },
+      { "Sun": "9:00 AM - 3:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.772607, "longitude": -122.437124 }
+  },
+  {
+    "name": "Poesia Café",
+    "visited": false,
+    "rating": "4.6 ",
+    "href": "/biz/poesia-caf%C3%A9-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "7:00 AM - 4:30 PM" },
+      { "Wed": "7:00 AM - 4:30 PM" },
+      { "Thu": "7:00 AM - 4:30 PM" },
+      { "Fri": "7:00 AM - 4:30 PM" },
+      { "Sat": "7:00 AM - 4:30 PM" },
+      { "Sun": "7:00 AM - 4:30 PM" }
+    ],
+    "coordinates": { "latitude": 37.761114, "longitude": -122.434414 }
+  },
+  {
+    "name": "Fish In The Box",
+    "visited": false,
+    "rating": "4.6 ",
+    "href": "/biz/fish-in-the-box-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "11:30 AM - 2:00 PM" },
+      { "Tue": "11:30 AM - 2:00 PM" },
+      { "Wed": "11:30 AM - 2:00 PM" },
+      { "Thu": "11:30 AM - 2:00 PM" },
+      { "Fri": "11:30 AM - 2:00 PM" },
+      { "Sat": "11:30 AM - 2:00 PM" },
+      { "Sun": "Closed" }
+    ],
+    "coordinates": { "latitude": 37.773848, "longitude": -122.445861 }
+  },
+  {
+    "name": "Serendipity",
+    "visited": false,
+    "rating": "4.7 ",
+    "href": "/biz/serendipity-san-francisco-5?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "11:30 AM - 2:30 PM" },
+      { "Wed": "11:30 AM - 2:30 PM" },
+      { "Thu": "11:30 AM - 2:30 PM" },
+      { "Fri": "11:30 AM - 2:30 PM" },
+      { "Sat": "11:30 AM - 2:30 PM" },
+      { "Sun": "11:30 AM - 2:30 PM" }
+    ],
+    "coordinates": { "latitude": 37.78217, "longitude": -122.486364 }
+  },
+  {
+    "name": "Beach’n",
+    "visited": false,
+    "rating": "4.7 ",
+    "href": "/biz/beach-n-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "8:00 AM - 2:00 PM" },
+      { "Tue": "Closed" },
+      { "Wed": "Closed" },
+      { "Thu": "8:00 AM - 2:00 PM" },
+      { "Fri": "8:00 AM - 3:00 PM" },
+      { "Sat": "8:00 AM - 3:00 PM" },
+      { "Sun": "8:00 AM - 3:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.760469, "longitude": -122.508242 }
+  },
+  {
+    "name": "Um Ma",
+    "visited": false,
+    "rating": "3.8 ",
+    "href": "/biz/um-ma-san-francisco-3?osq=Restaurants",
+    "times": [
+      { "Mon": "4:00 PM - 9:00 PM" },
+      { "Tue": "Closed" },
+      { "Wed": "11:00 AM - 2:00 PM" },
+      { "Thu": "11:00 AM - 2:00 PM" },
+      { "Fri": "11:00 AM - 10:00 PM" },
+      { "Sat": "11:00 AM - 10:00 PM" },
+      { "Sun": "11:00 AM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.765498, "longitude": -122.466196 }
+  },
+  {
+    "name": "Dumpling House",
+    "visited": false,
+    "rating": "4.3 ",
+    "href": "/biz/dumpling-house-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "11:00 AM - 2:30 PM" },
+      { "Tue": "11:00 AM - 2:30 PM" },
+      { "Wed": "11:00 AM - 2:30 PM" },
+      { "Thu": "11:00 AM - 2:30 PM" },
+      { "Fri": "11:00 AM - 2:30 PM" },
+      { "Sat": "11:00 AM - 9:00 PM" },
+      { "Sun": "11:00 AM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.763561, "longitude": -122.432804 }
+  },
+  {
+    "name": "Bansang",
+    "visited": false,
+    "rating": "4.1 ",
+    "href": "/biz/bansang-san-francisco-3?osq=Restaurants",
+    "times": [
+      { "Mon": "5:00 PM - 8:45 PM" },
+      { "Tue": "5:00 PM - 8:45 PM" },
+      { "Wed": "5:00 PM - 8:45 PM" },
+      { "Thu": "5:00 PM - 8:45 PM" },
+      { "Fri": "5:00 PM - 9:00 PM" },
+      { "Sat": "5:00 PM - 9:00 PM" },
+      { "Sun": "5:00 PM - 8:45 PM" }
+    ],
+    "coordinates": { "latitude": 37.784097, "longitude": -122.432635 }
+  },
+  {
+    "name": "Mamahuhu",
+    "visited": false,
+    "rating": "4.0 ",
+    "href": "/biz/mamahuhu-san-francisco-3?osq=Restaurants",
+    "times": [
+      { "Mon": "11:30 AM - 9:00 PM" },
+      { "Tue": "11:30 AM - 9:00 PM" },
+      { "Wed": "11:30 AM - 9:00 PM" },
+      { "Thu": "11:30 AM - 9:00 PM" },
+      { "Fri": "11:30 AM - 9:00 PM" },
+      { "Sat": "11:30 AM - 9:00 PM" },
+      { "Sun": "11:30 AM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.75132, "longitude": -122.431585 }
+  },
+  {
+    "name": "Routier",
+    "visited": false,
+    "rating": "4.4 ",
+    "href": "/biz/routier-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "Closed" },
+      { "Wed": "5:30 PM - 9:00 PM" },
+      { "Thu": "5:30 PM - 9:00 PM" },
+      { "Fri": "5:30 PM - 9:00 PM" },
+      { "Sat": "5:30 PM - 9:00 PM" },
+      { "Sun": "5:30 PM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.78791, "longitude": -122.440576 }
+  },
+  {
+    "name": "Udon Mugizo",
+    "visited": false,
+    "rating": "4.1 ",
+    "href": "/biz/udon-mugizo-san-francisco-11?osq=Restaurants",
+    "times": [
+      { "Mon": "11:00 AM - 9:00 PM" },
+      { "Tue": "11:00 AM - 9:00 PM" },
+      { "Wed": "11:00 AM - 9:00 PM" },
+      { "Thu": "11:00 AM - 9:00 PM" },
+      { "Fri": "11:00 AM - 9:30 PM" },
+      { "Sat": "11:00 AM - 9:30 PM" },
+      { "Sun": "11:00 AM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.78501, "longitude": -122.431741 }
+  },
+  {
+    "name": "Pasta Panino",
+    "visited": false,
+    "rating": "4.8 ",
+    "href": "/biz/pasta-panino-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "2:00 PM - 9:00 PM" },
+      { "Tue": "2:00 PM - 9:00 PM" },
+      { "Wed": "2:00 PM - 9:00 PM" },
+      { "Thu": "2:00 PM - 9:00 PM" },
+      { "Fri": "11:30 AM - 10:00 PM" },
+      { "Sat": "11:30 AM - 10:00 PM" },
+      { "Sun": "11:30 AM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.76098, "longitude": -122.435908 }
+  },
+  {
+    "name": "Dumpling Baby China Bistro",
+    "visited": false,
+    "rating": "4.3 ",
+    "href": "/biz/dumpling-baby-china-bistro-san-francisco-4?osq=Restaurants",
+    "times": [
+      { "Mon": "4:00 PM - 10:00 PM" },
+      { "Tue": "4:00 PM - 10:00 PM" },
+      { "Wed": "4:00 PM - 10:00 PM" },
+      { "Thu": "4:00 PM - 10:00 PM" },
+      { "Fri": "4:00 PM - 10:00 PM" },
+      { "Sat": "4:00 PM - 10:00 PM" },
+      { "Sun": "4:00 PM - 10:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.781053, "longitude": -122.459886 }
+  },
+  {
+    "name": "ILCHA",
+    "visited": false,
+    "rating": "4.4 ",
+    "href": "/biz/ilcha-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "Closed" },
+      { "Wed": "5:30 PM - 10:00 PM" },
+      { "Thu": "5:30 PM - 10:00 PM" },
+      { "Fri": "5:30 PM - 10:00 PM" },
+      { "Sat": "5:30 PM - 10:00 PM" },
+      { "Sun": "5:30 PM - 10:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.799512, "longitude": -122.436837 }
+  },
+  {
+    "name": "Xian Bistro",
+    "visited": false,
+    "rating": "4.5 ",
+    "href": "/biz/xian-bistro-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "11:00 AM - 8:00 PM" },
+      { "Wed": "11:00 AM - 8:00 PM" },
+      { "Thu": "11:00 AM - 8:00 PM" },
+      { "Fri": "11:00 AM - 8:00 PM" },
+      { "Sat": "11:00 AM - 8:00 PM" },
+      { "Sun": "11:00 AM - 8:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.753348, "longitude": -122.491058 }
+  },
+  {
+    "name": "Moku Yakitori-Ya",
+    "visited": false,
+    "rating": "4.4 ",
+    "href": "/biz/moku-yakitori-ya-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "5:00 PM - 9:00 PM" },
+      { "Wed": "5:00 PM - 9:00 PM" },
+      { "Thu": "5:00 PM - 9:00 PM" },
+      { "Fri": "5:00 PM - 10:00 PM" },
+      { "Sat": "5:00 PM - 10:00 PM" },
+      { "Sun": "11:30 AM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.782569, "longitude": -122.466441 }
+  },
+  {
+    "name": "The Public Izakaya",
+    "visited": false,
+    "rating": "4.4 ",
+    "href": "/biz/the-public-izakaya-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "5:00 PM - 2:00 AM (Next day)" },
+      { "Tue": "5:00 PM - 2:00 AM (Next day)" },
+      { "Wed": "5:00 PM - 12:30 AM (Next day)" },
+      { "Thu": "5:00 PM - 2:00 AM (Next day)" },
+      { "Fri": "5:00 PM - 2:00 AM (Next day)" },
+      { "Sat": "5:00 PM - 2:00 AM (Next day)" },
+      { "Sun": "5:00 PM - 12:30 AM (Next day)" }
+    ],
+    "coordinates": { "latitude": 37.787836, "longitude": -122.413599 }
+  },
+  {
+    "name": "Burma Superstar",
+    "visited": false,
+    "rating": "4.2 ",
+    "href": "/biz/burma-superstar-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "11:30 AM - 2:30 PM" },
+      { "Tue": "11:30 AM - 2:30 PM" },
+      { "Wed": "11:30 AM - 2:30 PM" },
+      { "Thu": "11:30 AM - 2:30 PM" },
+      { "Fri": "11:30 AM - 3:00 PM" },
+      { "Sat": "11:30 AM - 3:00 PM" },
+      { "Sun": "11:30 AM - 3:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.782818, "longitude": -122.462564 }
+  },
+  {
+    "name": "MuuKaTa6395 Thai Charcoal BBQ",
+    "visited": false,
+    "rating": "4.7 ",
+    "href": "/biz/muukata6395-thai-charcoal-bbq-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "11:00 AM - 3:00 PM" },
+      { "Tue": "11:00 AM - 3:00 PM" },
+      { "Wed": "11:00 AM - 3:00 PM" },
+      { "Thu": "11:00 AM - 3:00 PM" },
+      { "Fri": "11:00 AM - 3:00 PM" },
+      { "Sat": "11:00 AM - 3:00 PM" },
+      { "Sun": "11:00 AM - 3:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.780707, "longitude": -122.464648 }
+  },
+  {
+    "name": "Hinodeya Japantown",
+    "visited": false,
+    "rating": "4.2 ",
+    "href": "/biz/hinodeya-japantown-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "10:00 AM - 10:00 PM" },
+      { "Tue": "10:00 AM - 10:00 PM" },
+      { "Wed": "10:00 AM - 10:00 PM" },
+      { "Thu": "10:00 AM - 10:00 PM" },
+      { "Fri": "10:00 AM - 12:00 AM (Next day)" },
+      { "Sat": "10:00 AM - 12:00 AM (Next day)" },
+      { "Sun": "10:00 AM - 10:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.786157, "longitude": -122.430057 }
+  },
+  {
+    "name": "Caliente Bistro Kitchen",
+    "visited": false,
+    "rating": "4.8 ",
+    "href": "/biz/caliente-bistro-kitchen-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "11:00 AM - 8:00 PM" },
+      { "Wed": "11:00 AM - 8:00 PM" },
+      { "Thu": "11:00 AM - 8:00 PM" },
+      { "Fri": "11:00 AM - 8:00 PM" },
+      { "Sat": "11:00 AM - 8:00 PM" },
+      { "Sun": "Closed" }
+    ],
+    "coordinates": { "latitude": 37.780958, "longitude": -122.471314 }
+  },
+  {
+    "name": "Komaaj",
+    "visited": false,
+    "rating": "4.7 ",
+    "href": "/biz/komaaj-san-francisco-5?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "11:30 AM - 3:00 PM" },
+      { "Wed": "11:30 AM - 3:00 PM" },
+      { "Thu": "11:30 AM - 2:30 PM" },
+      { "Fri": "9:30 AM - 3:00 PM" },
+      { "Sat": "9:30 AM - 7:30 PM" },
+      { "Sun": "Closed" }
+    ],
+    "coordinates": { "latitude": 37.744209, "longitude": -122.420987 }
+  },
+  {
+    "name": "Manna",
+    "visited": false,
+    "rating": "4.1 ",
+    "href": "/biz/manna-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "11:30 AM - 9:00 PM" },
+      { "Wed": "11:30 AM - 9:00 PM" },
+      { "Thu": "11:30 AM - 9:00 PM" },
+      { "Fri": "11:30 AM - 9:00 PM" },
+      { "Sat": "11:30 AM - 9:00 PM" },
+      { "Sun": "11:30 AM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.76389, "longitude": -122.46725 }
+  },
+  {
+    "name": "Gola",
+    "visited": false,
+    "rating": "4.6 ",
+    "href": "/biz/gola-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "5:00 PM - 10:00 PM" },
+      { "Wed": "5:00 PM - 10:00 PM" },
+      { "Thu": "5:00 PM - 10:00 PM" },
+      { "Fri": "5:00 PM - 10:00 PM" },
+      { "Sat": "5:00 PM - 10:00 PM" },
+      { "Sun": "Closed" }
+    ],
+    "coordinates": { "latitude": 37.759758, "longitude": -122.421209 }
+  },
+  {
+    "name": "Mr. Digby’s",
+    "visited": false,
+    "rating": "4.2 ",
+    "href": "/biz/mr-digby-s-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "5:00 PM - 9:00 PM" },
+      { "Wed": "5:00 PM - 10:00 PM" },
+      { "Thu": "5:00 PM - 10:00 PM" },
+      { "Fri": "5:00 PM - 10:00 PM" },
+      { "Sat": "10:30 AM - 10:00 PM" },
+      { "Sun": "10:30 AM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.751845, "longitude": -122.427288 }
+  },
+  {
+    "name": "Rise Over Run",
+    "visited": false,
+    "rating": "4.1 ",
+    "href": "/biz/rise-over-run-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "4:00 PM - 10:00 PM" },
+      { "Wed": "4:00 PM - 10:00 PM" },
+      { "Thu": "4:00 PM - 10:00 PM" },
+      { "Fri": "4:00 PM - 11:00 PM" },
+      { "Sat": "10:00 AM - 2:00 PM" },
+      { "Sun": "10:00 AM - 2:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.783191, "longitude": -122.409922 }
+  },
+  {
+    "name": "Lark",
+    "visited": false,
+    "rating": "4.0 ",
+    "href": "/biz/lark-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "5:00 PM - 10:00 PM" },
+      { "Tue": "5:00 PM - 10:00 PM" },
+      { "Wed": "5:00 PM - 10:00 PM" },
+      { "Thu": "5:00 PM - 10:00 PM" },
+      { "Fri": "5:00 PM - 10:00 PM" },
+      { "Sat": "11:00 AM - 10:00 PM" },
+      { "Sun": "11:00 AM - 10:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.761243, "longitude": -122.434248 }
+  },
+  {
+    "name": "California Fish Market Restaurant",
+    "visited": false,
+    "rating": "4.4 ",
+    "href": "/biz/california-fish-market-restaurant-san-francisco-3?osq=Restaurants",
+    "times": [
+      { "Mon": "11:30 AM - 10:00 PM" },
+      { "Wed": "11:30 AM - 10:00 PM" },
+      { "Thu": "11:30 AM - 10:00 PM" },
+      { "Fri": "11:30 AM - 10:30 PM" },
+      { "Sat": "11:30 AM - 10:30 PM" },
+      { "Sun": "11:30 AM - 10:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.799817, "longitude": -122.408324 }
+  },
+  {
+    "name": "Brenda’s Meat &amp; Three",
+    "visited": false,
+    "rating": "4.2 ",
+    "href": "/biz/brendas-meat-and-three-san-francisco-3?osq=Restaurants",
+    "times": [
+      { "Mon": "8:00 AM - 9:00 PM" },
+      { "Tue": "8:00 AM - 9:00 PM" },
+      { "Wed": "8:00 AM - 9:00 PM" },
+      { "Thu": "8:00 AM - 9:00 PM" },
+      { "Fri": "8:00 AM - 9:00 PM" },
+      { "Sat": "8:00 AM - 9:00 PM" },
+      { "Sun": "8:00 AM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.778149, "longitude": -122.438551 }
+  },
+  {
+    "name": "Seven Hills",
+    "visited": false,
+    "rating": "4.5 ",
+    "href": "/biz/seven-hills-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "5:00 PM - 9:00 PM" },
+      { "Tue": "5:00 PM - 9:00 PM" },
+      { "Wed": "5:00 PM - 9:00 PM" },
+      { "Thu": "5:00 PM - 9:00 PM" },
+      { "Fri": "5:00 PM - 9:30 PM" },
+      { "Sat": "5:00 PM - 9:30 PM" },
+      { "Sun": "5:00 PM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.798171, "longitude": -122.418698 }
+  },
+  {
+    "name": "Papa’s Kitchen",
+    "visited": false,
+    "rating": "4.4 ",
+    "href": "/biz/papas-kitchen-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "11:00 AM - 9:00 PM" },
+      { "Tue": "Closed" },
+      { "Wed": "11:00 AM - 9:00 PM" },
+      { "Thu": "11:00 AM - 9:00 PM" },
+      { "Fri": "11:00 AM - 9:00 PM" },
+      { "Sat": "11:00 AM - 9:00 PM" },
+      { "Sun": "11:00 AM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.769418, "longitude": -122.450939 }
+  },
+  {
+    "name": "Dumpling Kitchen",
+    "visited": false,
+    "rating": "4.3 ",
+    "href": "/biz/dumpling-kitchen-san-francisco-5?osq=Restaurants",
+    "times": [
+      { "Mon": "11:00 AM - 3:00 PM" },
+      { "Tue": "Closed" },
+      { "Wed": "11:00 AM - 3:00 PM" },
+      { "Thu": "11:00 AM - 3:00 PM" },
+      { "Fri": "11:00 AM - 3:00 PM" },
+      { "Sat": "11:00 AM - 3:00 PM" },
+      { "Sun": "11:00 AM - 3:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.76014, "longitude": -122.435191 }
+  },
+  {
+    "name": "Breadbelly",
+    "visited": false,
+    "rating": "4.5 ",
+    "href": "/biz/breadbelly-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "9:00 AM - 2:00 PM" },
+      { "Tue": "Closed" },
+      { "Wed": "Closed" },
+      { "Thu": "9:00 AM - 2:00 PM" },
+      { "Fri": "9:00 AM - 2:00 PM" },
+      { "Sat": "9:00 AM - 2:00 PM" },
+      { "Sun": "9:00 AM - 2:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.782701, "longitude": -122.474404 }
+  },
+  {
+    "name": "Surisan",
+    "visited": false,
+    "rating": "4.3 ",
+    "href": "/biz/surisan-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "9:00 AM - 2:00 PM" },
+      { "Tue": "9:00 AM - 2:00 PM" },
+      { "Wed": "9:00 AM - 2:00 PM" },
+      { "Thu": "9:00 AM - 2:00 PM" },
+      { "Fri": "9:00 AM - 2:00 PM" },
+      { "Sat": "9:00 AM - 3:00 PM" },
+      { "Sun": "9:00 AM - 3:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.806798, "longitude": -122.41757 }
+  },
+  {
+    "name": "Ushi Taro Ramen",
+    "visited": false,
+    "rating": "4.3 ",
+    "href": "/biz/ushi-taro-ramen-san-francisco-3?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "11:30 AM - 2:30 PM" },
+      { "Wed": "11:30 AM - 2:30 PM" },
+      { "Thu": "11:30 AM - 2:30 PM" },
+      { "Fri": "11:30 AM - 2:30 PM" },
+      { "Sat": "11:30 AM - 2:30 PM" },
+      { "Sun": "11:30 AM - 2:30 PM" }
+    ],
+    "coordinates": { "latitude": 37.762546, "longitude": -122.466103 }
+  },
+  {
+    "name": "STOA",
+    "visited": false,
+    "rating": "4.6 ",
+    "href": "/biz/stoa-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "4:00 PM - 11:00 PM" },
+      { "Tue": "Closed" },
+      { "Wed": "Closed" },
+      { "Thu": "4:00 PM - 11:00 PM" },
+      { "Fri": "4:00 PM - 12:00 AM (Next day)" },
+      { "Sat": "4:00 PM - 12:00 AM (Next day)" },
+      { "Sun": "4:00 PM - 11:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.771577, "longitude": -122.433866 }
+  },
+  {
+    "name": "Woodhouse Fish",
+    "visited": false,
+    "rating": "4.1 ",
+    "href": "/biz/woodhouse-fish-san-francisco-4?osq=Restaurants",
+    "times": [
+      { "Mon": "11:30 AM - 9:00 PM" },
+      { "Tue": "11:30 AM - 9:00 PM" },
+      { "Wed": "11:30 AM - 9:00 PM" },
+      { "Thu": "11:30 AM - 9:00 PM" },
+      { "Fri": "11:30 AM - 9:30 PM" },
+      { "Sat": "11:30 AM - 9:30 PM" },
+      { "Sun": "11:30 AM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.78747, "longitude": -122.433396 }
+  },
+  {
+    "name": "LaLe",
+    "visited": false,
+    "rating": "4.2 ",
+    "href": "/biz/lale-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "10:00 AM - 4:30 PM" },
+      { "Tue": "Closed" },
+      { "Wed": "10:00 AM - 9:00 PM" },
+      { "Thu": "10:00 AM - 9:00 PM" },
+      { "Fri": "10:00 AM - 9:00 PM" },
+      { "Sat": "9:00 AM - 9:00 PM" },
+      { "Sun": "9:00 AM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.763835, "longitude": -122.465809 }
+  },
+  {
+    "name": "Flores San Francisco",
+    "visited": false,
+    "rating": "4.1 ",
+    "href": "/biz/flores-san-francisco-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "11:30 AM - 9:30 PM" },
+      { "Tue": "11:30 AM - 9:30 PM" },
+      { "Wed": "11:30 AM - 9:30 PM" },
+      { "Thu": "11:30 AM - 9:30 PM" },
+      { "Fri": "11:30 AM - 10:30 PM" },
+      { "Sat": "11:00 AM - 10:30 PM" },
+      { "Sun": "11:00 AM - 9:30 PM" }
+    ],
+    "coordinates": { "latitude": 37.797616, "longitude": -122.432581 }
+  },
+  {
+    "name": "San Ho Won",
+    "visited": false,
+    "rating": "4.6 ",
+    "href": "/biz/san-ho-won-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "Closed" },
+      { "Wed": "5:00 PM - 9:30 PM" },
+      { "Thu": "5:00 PM - 9:30 PM" },
+      { "Fri": "5:00 PM - 10:00 PM" },
+      { "Sat": "5:00 PM - 10:00 PM" },
+      { "Sun": "5:00 PM - 9:30 PM" }
+    ],
+    "coordinates": { "latitude": 37.759613, "longitude": -122.410247 }
+  },
+  {
+    "name": "Fiorella - Sunset",
+    "visited": false,
+    "rating": "4.1 ",
+    "href": "/biz/fiorella-sunset-san-francisco-3?osq=Restaurants",
+    "times": [
+      { "Mon": "5:00 PM - 9:00 PM" },
+      { "Tue": "5:00 PM - 9:00 PM" },
+      { "Wed": "5:00 PM - 9:00 PM" },
+      { "Thu": "5:00 PM - 9:00 PM" },
+      { "Fri": "5:00 PM - 10:00 PM" },
+      { "Sat": "11:00 AM - 2:30 PM" },
+      { "Sun": "11:00 AM - 2:30 PM" }
+    ],
+    "coordinates": { "latitude": 37.765158, "longitude": -122.466196 }
+  },
+  {
+    "name": "Chaska Restaurant",
+    "visited": false,
+    "rating": "4.7 ",
+    "href": "/biz/chaska-restaurant-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "5:00 PM - 10:00 PM" },
+      { "Tue": "5:00 PM - 10:00 PM" },
+      { "Wed": "5:00 PM - 10:00 PM" },
+      { "Thu": "5:00 PM - 10:00 PM" },
+      { "Fri": "12:00 PM - 10:00 PM" },
+      { "Sat": "12:00 PM - 10:00 PM" },
+      { "Sun": "2:00 PM - 10:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.780827, "longitude": -122.474432 }
+  },
+  {
+    "name": "Besharam",
+    "visited": false,
+    "rating": "3.8 ",
+    "href": "/biz/besharam-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "Closed" },
+      { "Wed": "5:00 PM - 9:00 PM" },
+      { "Thu": "5:00 PM - 9:00 PM" },
+      { "Fri": "5:00 PM - 9:00 PM" },
+      { "Sat": "5:00 PM - 9:00 PM" },
+      { "Sun": "5:00 PM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.754195, "longitude": -122.389735 }
+  },
+  {
+    "name": "Ragazza",
+    "visited": false,
+    "rating": "4.1 ",
+    "href": "/biz/ragazza-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "5:00 PM - 9:00 PM" },
+      { "Tue": "5:00 PM - 9:00 PM" },
+      { "Wed": "5:00 PM - 9:00 PM" },
+      { "Thu": "5:00 PM - 9:00 PM" },
+      { "Fri": "5:00 PM - 9:00 PM" },
+      { "Sat": "5:00 PM - 9:00 PM" },
+      { "Sun": "5:00 PM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.772476, "longitude": -122.437473 }
+  },
+  {
+    "name": "Perilla",
+    "visited": false,
+    "rating": "4.0 ",
+    "href": "/biz/perilla-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "11:00 AM - 9:00 PM" },
+      { "Tue": "Closed" },
+      { "Wed": "11:00 AM - 9:00 PM" },
+      { "Thu": "11:00 AM - 9:00 PM" },
+      { "Fri": "11:00 AM - 9:00 PM" },
+      { "Sat": "11:00 AM - 9:00 PM" },
+      { "Sun": "11:00 AM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.764171, "longitude": -122.467135 }
+  },
+  {
+    "name": "Corks",
+    "visited": false,
+    "rating": "4.7 ",
+    "href": "/biz/corks-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "4:00 PM - 10:00 PM" },
+      { "Tue": "4:00 PM - 10:00 PM" },
+      { "Wed": "7:00 AM - 2:00 PM" },
+      { "Thu": "7:00 AM - 2:00 PM" },
+      { "Fri": "7:00 AM - 2:00 PM" },
+      { "Sat": "7:00 AM - 2:00 PM" },
+      { "Sun": "7:00 AM - 2:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.785263, "longitude": -122.464261 }
+  },
+  {
+    "name": "Collina",
+    "visited": false,
+    "rating": "4.9 ",
+    "href": "/biz/collina-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "5:00 PM - 9:00 PM" },
+      { "Tue": "Closed" },
+      { "Wed": "Closed" },
+      { "Thu": "5:00 PM - 9:00 PM" },
+      { "Fri": "5:00 PM - 9:30 PM" },
+      { "Sat": "5:00 PM - 9:30 PM" },
+      { "Sun": "5:00 PM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.795316, "longitude": -122.418161 }
+  },
+  {
+    "name": "Jane on Fillmore",
+    "visited": false,
+    "rating": "3.9 ",
+    "href": "/biz/jane-on-fillmore-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "7:00 AM - 4:00 PM" },
+      { "Tue": "7:00 AM - 4:00 PM" },
+      { "Wed": "7:00 AM - 4:00 PM" },
+      { "Thu": "7:00 AM - 4:00 PM" },
+      { "Fri": "7:00 AM - 4:00 PM" },
+      { "Sat": "8:00 AM - 4:00 PM" },
+      { "Sun": "8:00 AM - 4:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.789365, "longitude": -122.434075 }
+  },
+  {
+    "name": "MaMo",
+    "visited": false,
+    "rating": "4.4 ",
+    "href": "/biz/mamo-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "5:00 PM - 9:00 PM" },
+      { "Wed": "5:00 PM - 9:00 PM" },
+      { "Thu": "5:00 PM - 9:00 PM" },
+      { "Fri": "11:00 AM - 3:00 PM" },
+      { "Sat": "11:00 AM - 3:00 PM" },
+      { "Sun": "11:00 AM - 3:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.803832, "longitude": -122.433683 }
+  },
+  {
+    "name": "Emmita’s Cafe",
+    "visited": false,
+    "rating": "4.7 ",
+    "href": "/biz/emmitas-cafe-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "7:00 AM - 3:00 PM" },
+      { "Tue": "7:00 AM - 3:00 PM" },
+      { "Wed": "7:00 AM - 3:00 PM" },
+      { "Thu": "7:00 AM - 3:00 PM" },
+      { "Fri": "7:00 AM - 3:00 PM" },
+      { "Sat": "Closed" },
+      { "Sun": "Closed" }
+    ],
+    "coordinates": { "latitude": 37.784588, "longitude": -122.440089 }
+  },
+  {
+    "name": "Freekeh",
+    "visited": false,
+    "rating": "4.7 ",
+    "href": "/biz/freekeh-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "5:30 PM - 9:00 PM" },
+      { "Wed": "5:30 PM - 9:00 PM" },
+      { "Thu": "5:30 PM - 9:00 PM" },
+      { "Fri": "5:30 PM - 9:30 PM" },
+      { "Sat": "5:30 PM - 9:30 PM" },
+      { "Sun": "5:30 PM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.765101, "longitude": -122.422644 }
+  },
+  {
+    "name": "Mama Mu’s Bistro",
+    "visited": false,
+    "rating": "5.0 ",
+    "href": "/biz/mama-mus-bistro-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "11:00 AM - 3:00 PM" },
+      { "Tue": "Closed" },
+      { "Wed": "11:00 AM - 3:00 PM" },
+      { "Thu": "11:00 AM - 3:00 PM" },
+      { "Fri": "11:00 AM - 3:00 PM" },
+      { "Sat": "11:00 AM - 3:00 PM" },
+      { "Sun": "11:00 AM - 3:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.754323, "longitude": -122.477948 }
+  },
+  {
+    "name": "Sikdang Woori",
+    "visited": false,
+    "rating": "4.6 ",
+    "href": "/biz/sikdang-woori-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "11:00 AM - 2:30 PM" },
+      { "Tue": "11:00 AM - 2:30 PM" },
+      { "Wed": "11:00 AM - 2:30 PM" },
+      { "Thu": "11:00 AM - 2:30 PM" },
+      { "Fri": "11:00 AM - 2:30 PM" },
+      { "Sat": "11:00 AM - 2:30 PM" },
+      { "Sun": "12:00 PM - 2:30 PM" }
+    ],
+    "coordinates": { "latitude": 37.783544, "longitude": -122.432435 }
+  },
+  {
+    "name": "Peacock Pansy",
+    "visited": false,
+    "rating": "4.5 ",
+    "href": "/biz/peacock-pansy-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "9:00 AM - 2:00 PM" },
+      { "Tue": "9:00 AM - 2:00 PM" },
+      { "Wed": "9:00 AM - 2:00 PM" },
+      { "Thu": "9:00 AM - 2:00 PM" },
+      { "Fri": "9:00 AM - 2:00 PM" },
+      { "Sat": "9:00 AM - 2:30 PM" },
+      { "Sun": "9:00 AM - 2:30 PM" }
+    ],
+    "coordinates": { "latitude": 37.77888, "longitude": -122.423255 }
+  },
+  {
+    "name": "Hayz Dog",
+    "visited": false,
+    "rating": "4.7 ",
+    "href": "/biz/hayz-dog-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "11:00 AM - 9:00 PM" },
+      { "Tue": "11:00 AM - 9:00 PM" },
+      { "Wed": "11:00 AM - 9:00 PM" },
+      { "Thu": "11:00 AM - 11:30 PM" },
+      { "Fri": "11:00 AM - 11:30 PM" },
+      { "Sat": "11:00 AM - 11:30 PM" },
+      { "Sun": "11:00 AM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.77726, "longitude": -122.422384 }
+  },
+  {
+    "name": "Saucy Asian",
+    "visited": false,
+    "rating": "4.3 ",
+    "href": "/biz/saucy-asian-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "11:30 AM - 3:00 PM" },
+      { "Tue": "11:30 AM - 3:00 PM" },
+      { "Wed": "11:30 AM - 3:00 PM" },
+      { "Thu": "11:30 AM - 3:00 PM" },
+      { "Fri": "11:30 AM - 3:00 PM" },
+      { "Sat": "11:30 AM - 3:00 PM" },
+      { "Sun": "11:30 AM - 3:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.762627, "longitude": -122.430923 }
+  },
+  {
+    "name": "Anchor Oyster Bar",
+    "visited": false,
+    "rating": "4.5 ",
+    "href": "/biz/anchor-oyster-bar-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "2:00 PM - 8:00 PM" },
+      { "Tue": "Closed" },
+      { "Wed": "Closed" },
+      { "Thu": "2:00 PM - 8:00 PM" },
+      { "Fri": "2:00 PM - 8:00 PM" },
+      { "Sat": "2:00 PM - 8:00 PM" },
+      { "Sun": "2:00 PM - 8:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.759702, "longitude": -122.434761 }
+  },
+  {
+    "name": "Dabao Singapore",
+    "visited": false,
+    "rating": "4.8 ",
+    "href": "/biz/dabao-singapore-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "Closed" },
+      { "Wed": "3:30 PM - 4:15 PM" },
+      { "Thu": "Closed" },
+      { "Fri": "3:30 PM - 3:45 PM" },
+      { "Sat": "4:00 PM - 4:30 PM" },
+      { "Sun": "Closed" }
+    ],
+    "coordinates": { "latitude": 37.750895, "longitude": -122.388145 }
+  },
+  {
+    "name": "Hu Tong Jian Bing",
+    "visited": false,
+    "rating": "4.1 ",
+    "href": "/biz/hu-tong-jian-bing-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "11:00 AM - 6:00 PM" },
+      { "Tue": "11:00 AM - 6:00 PM" },
+      { "Wed": "11:00 AM - 6:00 PM" },
+      { "Thu": "11:00 AM - 6:00 PM" },
+      { "Fri": "11:00 AM - 6:00 PM" },
+      { "Sat": "11:00 AM - 6:30 PM" },
+      { "Sun": "11:00 AM - 6:30 PM" }
+    ],
+    "coordinates": { "latitude": 37.760706, "longitude": -122.388383 }
+  },
+  {
+    "name": "Four Chairs",
+    "visited": false,
+    "rating": "4.4 ",
+    "href": "/biz/four-chairs-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "10:00 AM - 2:30 PM" },
+      { "Tue": "Closed" },
+      { "Wed": "10:00 AM - 2:30 PM" },
+      { "Thu": "10:00 AM - 2:30 PM" },
+      { "Fri": "10:00 AM - 2:30 PM" },
+      { "Sat": "9:00 AM - 3:00 PM" },
+      { "Sun": "9:00 AM - 3:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.744446, "longitude": -122.421004 }
+  },
+  {
+    "name": "Cracked &amp; Battered - Marina",
+    "visited": false,
+    "rating": "4.6 ",
+    "href": "/biz/cracked-and-battered-marina-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "8:30 AM - 2:00 PM" },
+      { "Tue": "8:30 AM - 2:00 PM" },
+      { "Wed": "8:30 AM - 2:00 PM" },
+      { "Thu": "8:30 AM - 2:00 PM" },
+      { "Fri": "8:30 AM - 2:00 PM" },
+      { "Sat": "8:30 AM - 2:00 PM" },
+      { "Sun": "8:30 AM - 2:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.800466, "longitude": -122.440206 }
+  },
+  {
+    "name": "Mangrove Kitchen",
+    "visited": false,
+    "rating": "4.0 ",
+    "href": "/biz/mangrove-kitchen-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "11:00 AM - 2:30 PM" },
+      { "Tue": "11:00 AM - 2:30 PM" },
+      { "Wed": "11:00 AM - 2:30 PM" },
+      { "Thu": "11:00 AM - 2:30 PM" },
+      { "Fri": "11:00 AM - 2:30 PM" },
+      { "Sat": "11:00 AM - 3:00 PM" },
+      { "Sun": "11:00 AM - 3:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.772514, "longitude": -122.437014 }
+  },
+  {
+    "name": "Chome",
+    "visited": false,
+    "rating": "4.6 ",
+    "href": "/biz/chome-san-francisco-3?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "Closed" },
+      { "Wed": "5:00 PM - 11:30 PM" },
+      { "Thu": "5:00 PM - 12:00 AM (Next day)" },
+      { "Fri": "5:00 PM - 12:00 AM (Next day)" },
+      { "Sat": "5:00 PM - 12:00 AM (Next day)" },
+      { "Sun": "5:00 PM - 12:00 AM (Next day)" }
+    ],
+    "coordinates": { "latitude": 37.762036, "longitude": -122.419184 }
+  },
+  {
+    "name": "Diamond Cafe",
+    "visited": false,
+    "rating": "4.3 ",
+    "href": "/biz/diamond-cafe-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "7:00 AM - 3:00 PM" },
+      { "Tue": "7:00 AM - 3:00 PM" },
+      { "Wed": "7:00 AM - 3:00 PM" },
+      { "Thu": "7:00 AM - 3:00 PM" },
+      { "Fri": "7:00 AM - 3:00 PM" },
+      { "Sat": "7:00 AM - 3:00 PM" },
+      { "Sun": "7:00 AM - 3:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.75129, "longitude": -122.436169 }
+  },
+  {
+    "name": "Taishoken San Francisco",
+    "visited": false,
+    "rating": "4.5 ",
+    "href": "/biz/taishoken-san-francisco-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "5:00 PM - 9:30 PM" },
+      { "Tue": "5:00 PM - 9:30 PM" },
+      { "Wed": "5:00 PM - 9:30 PM" },
+      { "Thu": "5:00 PM - 9:30 PM" },
+      { "Fri": "4:00 PM - 10:00 PM" },
+      { "Sat": "12:00 PM - 10:00 PM" },
+      { "Sun": "12:00 PM - 9:30 PM" }
+    ],
+    "coordinates": { "latitude": 37.762219, "longitude": -122.421506 }
+  },
+  {
+    "name": "Base Camp",
+    "visited": false,
+    "rating": "4.6 ",
+    "href": "/biz/base-camp-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "12:00 PM - 3:00 PM" },
+      { "Tue": "12:00 PM - 3:00 PM" },
+      { "Wed": "12:00 PM - 3:00 PM" },
+      { "Thu": "12:00 PM - 3:00 PM" },
+      { "Fri": "12:00 PM - 3:00 PM" },
+      { "Sat": "12:00 PM - 3:00 PM" },
+      { "Sun": "12:00 PM - 3:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.758778, "longitude": -122.414971 }
+  },
+  {
+    "name": "NOVY Restaurant",
+    "visited": false,
+    "rating": "4.1 ",
+    "href": "/biz/novy-restaurant-san-francisco-6?osq=Restaurants",
+    "times": [
+      { "Mon": "11:00 AM - 3:00 PM" },
+      { "Tue": "11:00 AM - 3:00 PM" },
+      { "Wed": "11:00 AM - 3:00 PM" },
+      { "Thu": "11:00 AM - 3:00 PM" },
+      { "Fri": "11:00 AM - 3:00 PM" },
+      { "Sat": "10:00 AM - 3:00 PM" },
+      { "Sun": "10:00 AM - 3:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.751557, "longitude": -122.43214 }
+  },
+  {
+    "name": "Outerlands",
+    "visited": false,
+    "rating": "3.8 ",
+    "href": "/biz/outerlands-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "Closed" },
+      { "Wed": "5:00 PM - 10:00 PM" },
+      { "Thu": "5:00 PM - 10:00 PM" },
+      { "Fri": "9:00 AM - 3:00 PM" },
+      { "Sat": "9:00 AM - 3:00 PM" },
+      { "Sun": "9:00 AM - 3:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.760281, "longitude": -122.505024 }
+  },
+  {
+    "name": "Pistachio Kitchen",
+    "visited": false,
+    "rating": "4.9 ",
+    "href": "/biz/pistachio-kitchen-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "8:00 AM - 3:00 PM" },
+      { "Tue": "8:00 AM - 3:00 PM" },
+      { "Wed": "8:00 AM - 3:00 PM" },
+      { "Thu": "8:00 AM - 3:00 PM" },
+      { "Fri": "8:00 AM - 3:00 PM" },
+      { "Sat": "8:00 AM - 3:00 PM" },
+      { "Sun": "8:00 AM - 3:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.788811, "longitude": -122.423912 }
+  },
+  {
+    "name": "The Crew",
+    "visited": false,
+    "rating": "3.9 ",
+    "href": "/biz/the-crew-san-francisco-3?osq=Restaurants",
+    "times": [
+      { "Mon": "5:00 PM - 12:00 AM (Next day)" },
+      { "Tue": "5:00 PM - 12:00 AM (Next day)" },
+      { "Wed": "5:00 PM - 12:00 AM (Next day)" },
+      { "Thu": "5:00 PM - 12:00 AM (Next day)" },
+      { "Fri": "5:00 PM - 1:00 AM (Next day)" },
+      { "Sat": "5:00 PM - 1:00 AM (Next day)" },
+      { "Sun": "5:00 PM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.754341, "longitude": -122.478169 }
+  },
+  {
+    "name": "Teakwood",
+    "visited": false,
+    "rating": "3.9 ",
+    "href": "/biz/teakwood-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "11:30 AM - 3:00 PM" },
+      { "Tue": "11:30 AM - 3:00 PM" },
+      { "Wed": "11:30 AM - 3:00 PM" },
+      { "Thu": "11:30 AM - 3:00 PM" },
+      { "Fri": "11:30 AM - 3:00 PM" },
+      { "Sat": "10:30 AM - 10:00 PM" },
+      { "Sun": "10:30 AM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.77769, "longitude": -122.422927 }
+  },
+  {
+    "name": "Parada 22",
+    "visited": false,
+    "rating": "4.2 ",
+    "href": "/biz/parada-22-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "12:00 PM - 10:00 PM" },
+      { "Tue": "12:00 PM - 10:00 PM" },
+      { "Wed": "12:00 PM - 10:00 PM" },
+      { "Thu": "12:00 PM - 10:00 PM" },
+      { "Fri": "12:00 PM - 10:00 PM" },
+      { "Sat": "12:00 PM - 10:00 PM" },
+      { "Sun": "12:00 PM - 10:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.769217, "longitude": -122.452121 }
+  },
+  {
+    "name": "Brenda’s French Soul Food",
+    "visited": false,
+    "rating": "4.2 ",
+    "href": "/biz/brendas-french-soul-food-san-francisco-6?osq=Restaurants",
+    "times": [
+      { "Mon": "8:00 AM - 8:00 PM" },
+      { "Tue": "8:00 AM - 3:00 PM" },
+      { "Wed": "8:00 AM - 8:00 PM" },
+      { "Thu": "8:00 AM - 8:00 PM" },
+      { "Fri": "8:00 AM - 8:00 PM" },
+      { "Sat": "8:00 AM - 8:00 PM" },
+      { "Sun": "8:00 AM - 8:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.782915, "longitude": -122.4189 }
+  },
+  {
+    "name": "Presidio Kebab",
+    "visited": false,
+    "rating": "4.7 ",
+    "href": "/biz/presidio-kebab-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "11:00 AM - 8:30 PM" },
+      { "Tue": "11:00 AM - 9:00 PM" },
+      { "Wed": "11:00 AM - 9:00 PM" },
+      { "Thu": "11:00 AM - 9:00 PM" },
+      { "Fri": "11:00 AM - 9:00 PM" },
+      { "Sat": "10:00 AM - 9:00 PM" },
+      { "Sun": "10:00 AM - 8:30 PM" }
+    ],
+    "coordinates": { "latitude": 37.788073, "longitude": -122.446807 }
+  },
+  {
+    "name": "Birch &amp; Rye",
+    "visited": false,
+    "rating": "4.0 ",
+    "href": "/biz/birch-and-rye-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "Closed" },
+      { "Wed": "5:00 PM - 9:00 PM" },
+      { "Thu": "5:00 PM - 9:00 PM" },
+      { "Fri": "5:00 PM - 9:00 PM" },
+      { "Sat": "5:00 PM - 9:00 PM" },
+      { "Sun": "11:00 AM - 2:30 PM" }
+    ],
+    "coordinates": { "latitude": 37.750924, "longitude": -122.434271 }
+  },
+  {
+    "name": "Souvla",
+    "visited": false,
+    "rating": "4.2 ",
+    "href": "/biz/souvla-san-francisco-3?osq=Restaurants",
+    "times": [
+      { "Mon": "11:00 AM - 10:00 PM" },
+      { "Tue": "11:00 AM - 10:00 PM" },
+      { "Wed": "11:00 AM - 10:00 PM" },
+      { "Thu": "11:00 AM - 10:00 PM" },
+      { "Fri": "11:00 AM - 10:00 PM" },
+      { "Sat": "11:00 AM - 10:00 PM" },
+      { "Sun": "11:00 AM - 10:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.774509, "longitude": -122.438032 }
+  },
+  {
+    "name": "Farmhouse Kitchen Thai Cuisine",
+    "visited": false,
+    "rating": "4.1 ",
+    "href": "/biz/farmhouse-kitchen-thai-cuisine-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "11:00 AM - 2:00 PM" },
+      { "Tue": "11:00 AM - 2:00 PM" },
+      { "Wed": "11:00 AM - 2:00 PM" },
+      { "Thu": "11:00 AM - 2:00 PM" },
+      { "Fri": "11:00 AM - 2:00 PM" },
+      { "Sat": "12:00 PM - 10:00 PM" },
+      { "Sun": "12:00 PM - 9:30 PM" }
+    ],
+    "coordinates": { "latitude": 37.760193, "longitude": -122.411419 }
+  },
+  {
+    "name": "Sandy’s",
+    "visited": false,
+    "rating": "4.8 ",
+    "href": "/biz/sandys-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "Closed" },
+      { "Wed": "11:00 AM - 5:00 PM" },
+      { "Thu": "11:00 AM - 5:00 PM" },
+      { "Fri": "11:00 AM - 5:00 PM" },
+      { "Sat": "11:00 AM - 5:00 PM" },
+      { "Sun": "11:00 AM - 5:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.769876, "longitude": -122.446301 }
+  },
+  {
+    "name": "Om Sabor",
+    "visited": false,
+    "rating": "4.7 ",
+    "href": "/biz/om-sabor-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "5:00 PM - 9:00 PM" },
+      { "Wed": "5:00 PM - 10:00 PM" },
+      { "Thu": "5:00 PM - 10:00 PM" },
+      { "Fri": "5:00 PM - 10:00 PM" },
+      { "Sat": "5:00 PM - 10:00 PM" },
+      { "Sun": "3:00 PM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.778087, "longitude": -122.42268 }
+  },
+  {
+    "name": "Cote Ouest Bistro",
+    "visited": false,
+    "rating": "4.7 ",
+    "href": "/biz/cote-ouest-bistro-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "11:30 AM - 2:30 PM" },
+      { "Wed": "11:30 AM - 2:30 PM" },
+      { "Thu": "11:30 AM - 2:30 PM" },
+      { "Fri": "11:30 AM - 2:30 PM" },
+      { "Sat": "9:30 AM - 2:30 PM" },
+      { "Sun": "9:30 AM - 2:30 PM" }
+    ],
+    "coordinates": { "latitude": 37.798338, "longitude": -122.446091 }
+  },
+  {
+    "name": "Bodega",
+    "visited": false,
+    "rating": "4.4 ",
+    "href": "/biz/bodega-san-francisco-3?osq=Restaurants",
+    "times": [
+      { "Mon": "11:00 AM - 3:00 PM" },
+      { "Tue": "10:00 AM - 3:00 PM" },
+      { "Wed": "11:00 AM - 3:00 PM" },
+      { "Thu": "11:00 AM - 3:00 PM" },
+      { "Fri": "11:00 AM - 3:00 PM" },
+      { "Sat": "11:00 AM - 3:00 PM" },
+      { "Sun": "11:00 AM - 3:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.784838, "longitude": -122.409302 }
+  },
+  {
+    "name": "DragonEats",
+    "visited": false,
+    "rating": "4.4 ",
+    "href": "/biz/dragoneats-san-francisco-7?osq=Restaurants",
+    "times": [
+      { "Mon": "11:00 AM - 6:00 PM" },
+      { "Tue": "11:00 AM - 6:00 PM" },
+      { "Wed": "11:00 AM - 6:00 PM" },
+      { "Thu": "11:00 AM - 6:00 PM" },
+      { "Fri": "11:00 AM - 6:00 PM" },
+      { "Sat": "11:00 AM - 6:00 PM" },
+      { "Sun": "11:00 AM - 5:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.769497, "longitude": -122.450111 }
+  },
+  {
+    "name": "Rooftop 25",
+    "visited": false,
+    "rating": "3.8 ",
+    "href": "/biz/rooftop-25-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "3:00 PM - 8:00 PM" },
+      { "Wed": "3:00 PM - 8:00 PM" },
+      { "Thu": "3:00 PM - 9:00 PM" },
+      { "Fri": "11:00 AM - 10:30 PM" },
+      { "Sat": "11:00 AM - 10:30 PM" },
+      { "Sun": "Closed" }
+    ],
+    "coordinates": { "latitude": 37.778567, "longitude": -122.394383 }
+  },
+  {
+    "name": "Mamahuhu",
+    "visited": false,
+    "rating": "4.0 ",
+    "href": "/biz/mamahuhu-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "11:30 AM - 9:00 PM" },
+      { "Tue": "11:30 AM - 9:00 PM" },
+      { "Wed": "11:30 AM - 9:00 PM" },
+      { "Thu": "11:30 AM - 9:00 PM" },
+      { "Fri": "11:30 AM - 10:00 PM" },
+      { "Sat": "11:30 AM - 10:00 PM" },
+      { "Sun": "11:30 AM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.782694, "longitude": -122.464781 }
+  },
+  {
+    "name": "Anomaly SF",
+    "visited": false,
+    "rating": "4.7 ",
+    "href": "/biz/anomaly-sf-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "7:00 PM - 11:00 PM" },
+      { "Wed": "6:00 PM - 11:00 PM" },
+      { "Thu": "6:00 PM - 11:00 PM" },
+      { "Fri": "6:00 PM - 11:00 PM" },
+      { "Sat": "6:00 PM - 11:00 PM" },
+      { "Sun": "Closed" }
+    ],
+    "coordinates": { "latitude": 37.784945, "longitude": -122.443377 }
+  },
+  {
+    "name": "Little Original Joe’s",
+    "visited": false,
+    "rating": "4.3 ",
+    "href": "/biz/little-original-joes-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "10:00 AM - 10:00 PM" },
+      { "Tue": "10:00 AM - 10:00 PM" },
+      { "Wed": "10:00 AM - 10:00 PM" },
+      { "Thu": "10:00 AM - 10:00 PM" },
+      { "Fri": "10:00 AM - 10:00 PM" },
+      { "Sat": "10:00 AM - 10:00 PM" },
+      { "Sun": "10:00 AM - 10:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.736575, "longitude": -122.47032 }
+  },
+  {
+    "name": "Friends Only",
+    "visited": false,
+    "rating": "4.9 ",
+    "href": "/biz/friends-only-san-francisco?osq=Restaurants",
+    "times": [],
+    "coordinates": { "latitude": 37.790716, "longitude": -122.419231 }
+  },
+  {
+    "name": "Mamanoko",
+    "visited": false,
+    "rating": "4.3 ",
+    "href": "/biz/mamanoko-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "5:00 PM - 9:00 PM" },
+      { "Tue": "5:00 PM - 9:00 PM" },
+      { "Wed": "5:00 PM - 9:00 PM" },
+      { "Thu": "5:00 PM - 9:00 PM" },
+      { "Fri": "12:00 PM - 2:30 PM" },
+      { "Sat": "12:00 PM - 2:30 PM" },
+      { "Sun": "12:00 PM - 2:30 PM" }
+    ],
+    "coordinates": { "latitude": 37.799956, "longitude": -122.441438 }
+  },
+  {
+    "name": "Brioche Bakery &amp; Cafe",
+    "visited": false,
+    "rating": "4.0 ",
+    "href": "/biz/brioche-bakery-and-cafe-san-francisco-3?osq=Restaurants",
+    "times": [
+      { "Mon": "8:00 AM - 8:30 PM" },
+      { "Tue": "8:00 AM - 8:30 PM" },
+      { "Wed": "8:00 AM - 8:30 PM" },
+      { "Thu": "8:00 AM - 8:30 PM" },
+      { "Fri": "8:00 AM - 8:30 PM" },
+      { "Sat": "8:00 AM - 8:30 PM" },
+      { "Sun": "8:00 AM - 8:30 PM" }
+    ],
+    "coordinates": { "latitude": 37.769931, "longitude": -122.449316 }
+  },
+  {
+    "name": "L’Ardoise Bistro",
+    "visited": false,
+    "rating": "4.5 ",
+    "href": "/biz/l-ardoise-bistro-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "5:30 PM - 10:00 PM" },
+      { "Wed": "5:30 PM - 10:00 PM" },
+      { "Thu": "5:30 PM - 10:00 PM" },
+      { "Fri": "5:00 PM - 10:30 PM" },
+      { "Sat": "5:00 PM - 10:30 PM" },
+      { "Sun": "Closed" }
+    ],
+    "coordinates": { "latitude": 37.766574, "longitude": -122.432988 }
+  },
+  {
+    "name": "Unco Frank’s",
+    "visited": false,
+    "rating": "4.5 ",
+    "href": "/biz/unco-frank-s-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "4:30 PM - 8:45 PM" },
+      { "Tue": "4:30 PM - 8:45 PM" },
+      { "Wed": "4:30 PM - 8:45 PM" },
+      { "Thu": "4:30 PM - 8:45 PM" },
+      { "Fri": "4:30 PM - 10:00 PM" },
+      { "Sat": "4:30 PM - 10:00 PM" },
+      { "Sun": "4:30 PM - 8:45 PM" }
+    ],
+    "coordinates": { "latitude": 37.782849, "longitude": -122.464117 }
+  },
+  {
+    "name": "Wilder",
+    "visited": false,
+    "rating": "3.9 ",
+    "href": "/biz/wilder-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "5:00 PM - 10:00 PM" },
+      { "Tue": "Closed" },
+      { "Wed": "5:00 PM - 11:00 PM" },
+      { "Thu": "5:00 PM - 11:00 PM" },
+      { "Fri": "4:00 PM - 2:00 AM (Next day)" },
+      { "Sat": "10:00 AM - 2:00 AM (Next day)" },
+      { "Sun": "10:00 AM - 8:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.798848, "longitude": -122.435688 }
+  },
+  {
+    "name": "Big Fish House",
+    "visited": false,
+    "rating": "4.9 ",
+    "href": "/biz/big-fish-house-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "11:30 AM - 2:30 PM" },
+      { "Wed": "11:30 AM - 2:30 PM" },
+      { "Thu": "11:30 AM - 2:30 PM" },
+      { "Fri": "11:30 AM - 2:30 PM" },
+      { "Sat": "5:00 PM - 10:00 PM" },
+      { "Sun": "5:00 PM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.781957, "longitude": -122.481961 }
+  },
+  {
+    "name": "Chez Maman West",
+    "visited": false,
+    "rating": "4.1 ",
+    "href": "/biz/chez-maman-west-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "11:30 AM - 10:00 PM" },
+      { "Tue": "11:30 AM - 10:00 PM" },
+      { "Wed": "11:30 AM - 10:00 PM" },
+      { "Thu": "11:30 AM - 10:00 PM" },
+      { "Fri": "11:30 AM - 10:00 PM" },
+      { "Sat": "10:30 AM - 10:00 PM" },
+      { "Sun": "10:30 AM - 10:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.776988, "longitude": -122.423164 }
+  },
+  {
+    "name": "Breakfast at Tiffany’s",
+    "visited": false,
+    "rating": "4.0 ",
+    "href": "/biz/breakfast-at-tiffanys-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "7:00 AM - 2:00 PM" },
+      { "Tue": "7:00 AM - 2:00 PM" },
+      { "Wed": "7:00 AM - 2:00 PM" },
+      { "Thu": "7:00 AM - 2:00 PM" },
+      { "Fri": "7:00 AM - 2:00 PM" },
+      { "Sat": "7:00 AM - 2:30 PM" },
+      { "Sun": "7:00 AM - 2:30 PM" }
+    ],
+    "coordinates": { "latitude": 37.730449, "longitude": -122.404662 }
+  },
+  {
+    "name": "Suppenküche",
+    "visited": false,
+    "rating": "4.1 ",
+    "href": "/biz/suppenk%C3%BCche-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "5:00 PM - 9:00 PM" },
+      { "Tue": "5:00 PM - 9:00 PM" },
+      { "Wed": "5:00 PM - 9:00 PM" },
+      { "Thu": "5:00 PM - 10:00 PM" },
+      { "Fri": "4:00 PM - 10:00 PM" },
+      { "Sat": "12:00 PM - 10:00 PM" },
+      { "Sun": "12:00 PM - 7:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.776239, "longitude": -122.426424 }
+  },
+  {
+    "name": "Pizzetta 211",
+    "visited": false,
+    "rating": "4.3 ",
+    "href": "/biz/pizzetta-211-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "11:30 AM - 2:30 PM" },
+      { "Tue": "Closed" },
+      { "Wed": "11:30 AM - 2:30 PM" },
+      { "Thu": "11:30 AM - 2:30 PM" },
+      { "Fri": "11:30 AM - 2:30 PM" },
+      { "Sat": "11:30 AM - 9:30 PM" },
+      { "Sun": "11:30 AM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.783684, "longitude": -122.482974 }
+  },
+  {
+    "name": "Waraku",
+    "visited": false,
+    "rating": "3.8 ",
+    "href": "/biz/waraku-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "11:30 AM - 2:30 PM" },
+      { "Tue": "11:30 AM - 2:30 PM" },
+      { "Wed": "11:30 AM - 2:30 PM" },
+      { "Thu": "11:30 AM - 2:30 PM" },
+      { "Fri": "11:30 AM - 10:00 PM" },
+      { "Sat": "11:30 AM - 10:00 PM" },
+      { "Sun": "11:30 AM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.785902, "longitude": -122.428774 }
+  },
+  {
+    "name": "Kiln",
+    "visited": false,
+    "rating": "4.6 ",
+    "href": "/biz/kiln-san-francisco-3?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "5:00 PM - 8:30 PM" },
+      { "Wed": "5:00 PM - 8:30 PM" },
+      { "Thu": "5:00 PM - 8:30 PM" },
+      { "Fri": "5:00 PM - 8:30 PM" },
+      { "Sat": "5:00 PM - 8:30 PM" },
+      { "Sun": "Closed" }
+    ],
+    "coordinates": { "latitude": 37.776024, "longitude": -122.420357 }
+  },
+  {
+    "name": "Cole Valley Tavern",
+    "visited": false,
+    "rating": "4.1 ",
+    "href": "/biz/cole-valley-tavern-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "11:00 AM - 9:00 PM" },
+      { "Tue": "Closed" },
+      { "Wed": "11:00 AM - 10:00 PM" },
+      { "Thu": "11:00 AM - 10:00 PM" },
+      { "Fri": "11:00 AM - 10:00 PM" },
+      { "Sat": "10:00 AM - 10:00 PM" },
+      { "Sun": "10:00 AM - 8:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.76575, "longitude": -122.449729 }
+  },
+  {
+    "name": "Izakaya Sozai",
+    "visited": false,
+    "rating": "3.8 ",
+    "href": "/biz/izakaya-sozai-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "5:00 PM - 9:00 PM" },
+      { "Tue": "Closed" },
+      { "Wed": "5:00 PM - 9:00 PM" },
+      { "Thu": "5:00 PM - 9:00 PM" },
+      { "Fri": "5:00 PM - 10:00 PM" },
+      { "Sat": "5:00 PM - 10:00 PM" },
+      { "Sun": "5:00 PM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.763842, "longitude": -122.47413 }
+  },
+  {
+    "name": "Bella Trattoria",
+    "visited": false,
+    "rating": "4.3 ",
+    "href": "/biz/bella-trattoria-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "4:30 PM - 9:00 PM" },
+      { "Tue": "4:30 PM - 9:00 PM" },
+      { "Wed": "11:00 AM - 9:00 PM" },
+      { "Thu": "11:00 AM - 9:00 PM" },
+      { "Fri": "11:00 AM - 10:00 PM" },
+      { "Sat": "12:00 PM - 10:00 PM" },
+      { "Sun": "12:00 PM - 8:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.78136, "longitude": -122.460921 }
+  },
+  {
+    "name": "Sonamu Korean Restaurant",
+    "visited": false,
+    "rating": "4.5 ",
+    "href": "/biz/sonamu-korean-restaurant-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "11:30 AM - 3:30 PM" },
+      { "Tue": "11:30 AM - 3:30 PM" },
+      { "Wed": "Closed" },
+      { "Thu": "11:30 AM - 3:30 PM" },
+      { "Fri": "11:30 AM - 3:30 PM" },
+      { "Sat": "11:30 AM - 3:30 PM" },
+      { "Sun": "11:30 AM - 3:30 PM" }
+    ],
+    "coordinates": { "latitude": 37.780572, "longitude": -122.480933 }
+  },
+  {
+    "name": "State Bird Provisions",
+    "visited": false,
+    "rating": "4.2 ",
+    "href": "/biz/state-bird-provisions-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "5:30 PM - 10:00 PM" },
+      { "Tue": "5:30 PM - 10:00 PM" },
+      { "Wed": "5:30 PM - 10:00 PM" },
+      { "Thu": "5:30 PM - 10:00 PM" },
+      { "Fri": "5:30 PM - 10:30 PM" },
+      { "Sat": "5:30 PM - 10:30 PM" },
+      { "Sun": "5:30 PM - 10:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.78374, "longitude": -122.433005 }
+  },
+  {
+    "name": "Vico Cavone",
+    "visited": false,
+    "rating": "3.8 ",
+    "href": "/biz/vico-cavone-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "5:00 PM - 10:00 PM" },
+      { "Tue": "5:00 PM - 10:00 PM" },
+      { "Wed": "5:00 PM - 10:00 PM" },
+      { "Thu": "5:00 PM - 10:00 PM" },
+      { "Fri": "5:00 PM - 10:00 PM" },
+      { "Sat": "11:00 AM - 3:00 PM" },
+      { "Sun": "11:00 AM - 3:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.760884, "longitude": -122.436965 }
+  },
+  {
+    "name": "Georgian Cheese Boat",
+    "visited": false,
+    "rating": "4.6 ",
+    "href": "/biz/georgian-cheese-boat-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "11:45 AM - 10:00 PM" },
+      { "Tue": "11:45 AM - 10:00 PM" },
+      { "Wed": "11:45 AM - 10:00 PM" },
+      { "Thu": "11:45 AM - 10:00 PM" },
+      { "Fri": "11:00 AM - 10:00 PM" },
+      { "Sat": "11:00 AM - 10:00 PM" },
+      { "Sun": "11:00 AM - 10:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.798367, "longitude": -122.407109 }
+  },
+  {
+    "name": "Al Carajo",
+    "visited": false,
+    "rating": "4.9 ",
+    "href": "/biz/al-carajo-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "Closed" },
+      { "Wed": "11:00 AM - 3:00 PM" },
+      { "Thu": "11:00 AM - 3:00 PM" },
+      { "Fri": "11:00 AM - 10:00 PM" },
+      { "Sat": "10:00 AM - 10:00 PM" },
+      { "Sun": "10:00 AM - 4:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.755586, "longitude": -122.419417 }
+  },
+  {
+    "name": "Prik Hom",
+    "visited": false,
+    "rating": "4.6 ",
+    "href": "/biz/prik-hom-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "Closed" },
+      { "Wed": "5:00 PM - 9:00 PM" },
+      { "Thu": "5:00 PM - 9:00 PM" },
+      { "Fri": "5:00 PM - 9:30 PM" },
+      { "Sat": "5:00 PM - 9:30 PM" },
+      { "Sun": "5:00 PM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.781837, "longitude": -122.45377 }
+  },
+  {
+    "name": "a Mano",
+    "visited": false,
+    "rating": "4.1 ",
+    "href": "/biz/a-mano-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "11:30 AM - 9:30 PM" },
+      { "Tue": "11:30 AM - 9:30 PM" },
+      { "Wed": "11:30 AM - 9:30 PM" },
+      { "Thu": "11:30 AM - 9:30 PM" },
+      { "Fri": "11:30 AM - 10:30 PM" },
+      { "Sat": "11:00 AM - 10:30 PM" },
+      { "Sun": "11:00 AM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.776964, "longitude": -122.423868 }
+  },
+  {
+    "name": "Cocina Mamá Cholita",
+    "visited": false,
+    "rating": "4.9 ",
+    "href": "/biz/cocina-mam%C3%A1-cholita-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "Closed" },
+      { "Wed": "11:30 AM - 8:30 PM" },
+      { "Thu": "11:30 AM - 8:30 PM" },
+      { "Fri": "11:30 AM - 8:30 PM" },
+      { "Sat": "11:30 AM - 8:30 PM" },
+      { "Sun": "10:30 AM - 7:30 PM" }
+    ],
+    "coordinates": { "latitude": 37.741273, "longitude": -122.422503 }
+  },
+  {
+    "name": "Mr. Hen Noodles House",
+    "visited": false,
+    "rating": "4.1 ",
+    "href": "/biz/mr-hen-noodles-house-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "11:00 AM - 3:30 PM" },
+      { "Tue": "11:00 AM - 3:30 PM" },
+      { "Wed": "11:00 AM - 3:30 PM" },
+      { "Thu": "11:00 AM - 3:30 PM" },
+      { "Fri": "11:00 AM - 3:30 PM" },
+      { "Sat": "1:00 PM - 10:00 PM" },
+      { "Sun": "5:00 PM - 10:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.760855, "longitude": -122.433696 }
+  },
+  {
+    "name": "Casaro Osteria",
+    "visited": false,
+    "rating": "4.5 ",
+    "href": "/biz/casaro-osteria-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "11:30 AM - 10:00 PM" },
+      { "Tue": "11:30 AM - 10:00 PM" },
+      { "Wed": "11:30 AM - 10:00 PM" },
+      { "Thu": "11:30 AM - 10:00 PM" },
+      { "Fri": "11:30 AM - 11:00 PM" },
+      { "Sat": "11:30 AM - 11:00 PM" },
+      { "Sun": "11:30 AM - 10:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.797443, "longitude": -122.434493 }
+  },
+  {
+    "name": "Cafe Okawari",
+    "visited": false,
+    "rating": "4.5 ",
+    "href": "/biz/cafe-okawari-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "10:30 AM - 7:30 PM" },
+      { "Tue": "10:30 AM - 7:30 PM" },
+      { "Wed": "10:30 AM - 7:30 PM" },
+      { "Thu": "10:30 AM - 7:30 PM" },
+      { "Fri": "10:30 AM - 7:30 PM" },
+      { "Sat": "Closed" },
+      { "Sun": "Closed" }
+    ],
+    "coordinates": { "latitude": 37.778213, "longitude": -122.393939 }
+  },
+  {
+    "name": "Gurung Kitchen",
+    "visited": false,
+    "rating": "4.6 ",
+    "href": "/biz/gurung-kitchen-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "11:00 AM - 10:00 PM" },
+      { "Tue": "11:00 AM - 10:00 PM" },
+      { "Wed": "11:00 AM - 10:00 PM" },
+      { "Thu": "11:00 AM - 10:00 PM" },
+      { "Fri": "11:00 AM - 10:00 PM" },
+      { "Sat": "11:00 AM - 10:00 PM" },
+      { "Sun": "11:00 AM - 10:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.76372, "longitude": -122.469081 }
+  },
+  {
+    "name": "Kantine",
+    "visited": false,
+    "rating": "4.2 ",
+    "href": "/biz/kantine-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "8:00 AM - 2:00 PM" },
+      { "Wed": "8:00 AM - 2:00 PM" },
+      { "Thu": "8:00 AM - 2:00 PM" },
+      { "Fri": "8:00 AM - 2:00 PM" },
+      { "Sat": "9:00 AM - 3:00 PM" },
+      { "Sun": "9:00 AM - 3:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.770655, "longitude": -122.425312 }
+  },
+  {
+    "name": "Jaranita",
+    "visited": false,
+    "rating": "4.2 ",
+    "href": "/biz/jaranita-san-francisco-4?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "4:00 PM - 9:00 PM" },
+      { "Wed": "4:00 PM - 9:00 PM" },
+      { "Thu": "4:00 PM - 9:00 PM" },
+      { "Fri": "4:00 PM - 9:30 PM" },
+      { "Sat": "11:30 AM - 3:00 PM" },
+      { "Sun": "11:30 AM - 3:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.800241, "longitude": -122.437546 }
+  },
+  {
+    "name": "Damn Fine",
+    "visited": false,
+    "rating": "4.3 ",
+    "href": "/biz/damn-fine-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "12:00 PM - 10:00 PM" },
+      { "Wed": "12:00 PM - 10:00 PM" },
+      { "Thu": "12:00 PM - 10:00 PM" },
+      { "Fri": "12:00 PM - 10:00 PM" },
+      { "Sat": "12:00 PM - 10:00 PM" },
+      { "Sun": "12:00 PM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.760934, "longitude": -122.498731 }
+  },
+  {
+    "name": "Kui Shin Bo",
+    "visited": false,
+    "rating": "3.8 ",
+    "href": "/biz/kui-shin-bo-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "11:30 AM - 8:30 PM" },
+      { "Tue": "11:30 AM - 8:30 PM" },
+      { "Wed": "Closed" },
+      { "Thu": "11:30 AM - 8:30 PM" },
+      { "Fri": "11:30 AM - 8:30 PM" },
+      { "Sat": "11:30 AM - 8:30 PM" },
+      { "Sun": "11:30 AM - 8:30 PM" }
+    ],
+    "coordinates": { "latitude": 37.785367, "longitude": -122.429465 }
+  },
+  {
+    "name": "Yakiniku Shodai",
+    "visited": false,
+    "rating": "4.8 ",
+    "href": "/biz/yakiniku-shodai-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "5:30 PM - 10:00 PM" },
+      { "Wed": "5:30 PM - 10:00 PM" },
+      { "Thu": "5:30 PM - 10:00 PM" },
+      { "Fri": "5:00 PM - 10:00 PM" },
+      { "Sat": "5:00 PM - 10:00 PM" },
+      { "Sun": "12:00 PM - 2:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.776224, "longitude": -122.418239 }
+  },
+  {
+    "name": "The Italian Homemade Company",
+    "visited": false,
+    "rating": "4.3 ",
+    "href": "/biz/the-italian-homemade-company-san-francisco-8?osq=Restaurants",
+    "times": [
+      { "Mon": "11:00 AM - 9:00 PM" },
+      { "Tue": "11:00 AM - 9:00 PM" },
+      { "Wed": "11:00 AM - 9:00 PM" },
+      { "Thu": "11:00 AM - 9:00 PM" },
+      { "Fri": "11:00 AM - 9:00 PM" },
+      { "Sat": "11:00 AM - 9:00 PM" },
+      { "Sun": "11:00 AM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.801752, "longitude": -122.411851 }
+  },
+  {
+    "name": "Troya",
+    "visited": false,
+    "rating": "4.0 ",
+    "href": "/biz/troya-san-francisco-3?osq=Restaurants",
+    "times": [
+      { "Mon": "11:00 AM - 9:00 PM" },
+      { "Tue": "11:00 AM - 9:00 PM" },
+      { "Wed": "11:00 AM - 9:00 PM" },
+      { "Thu": "11:00 AM - 9:00 PM" },
+      { "Fri": "11:00 AM - 9:00 PM" },
+      { "Sat": "10:00 AM - 9:00 PM" },
+      { "Sun": "10:00 AM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.789374, "longitude": -122.434076 }
+  },
+  {
+    "name": "Piglet &amp; Co",
+    "visited": false,
+    "rating": "4.3 ",
+    "href": "/biz/piglet-and-co-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "Closed" },
+      { "Wed": "5:00 PM - 9:30 PM" },
+      { "Thu": "5:00 PM - 9:30 PM" },
+      { "Fri": "5:00 PM - 9:30 PM" },
+      { "Sat": "5:00 PM - 9:30 PM" },
+      { "Sun": "11:00 AM - 2:30 PM" }
+    ],
+    "coordinates": { "latitude": 37.762337, "longitude": -122.419758 }
+  },
+  {
+    "name": "Marcella’s Lasagneria",
+    "visited": false,
+    "rating": "4.6 ",
+    "href": "/biz/marcellas-lasagneria-san-francisco-3?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "10:00 AM - 2:00 PM" },
+      { "Wed": "10:00 AM - 2:00 PM" },
+      { "Thu": "10:00 AM - 2:00 PM" },
+      { "Fri": "10:00 AM - 2:00 PM" },
+      { "Sat": "10:00 AM - 2:00 PM" },
+      { "Sun": "Closed" }
+    ],
+    "coordinates": { "latitude": 37.758021, "longitude": -122.389141 }
+  },
+  {
+    "name": "La Connessa",
+    "visited": false,
+    "rating": "4.7 ",
+    "href": "/biz/la-connessa-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "4:00 PM - 9:00 PM" },
+      { "Tue": "4:00 PM - 9:00 PM" },
+      { "Wed": "4:00 PM - 9:00 PM" },
+      { "Thu": "4:00 PM - 9:00 PM" },
+      { "Fri": "4:00 PM - 10:00 PM" },
+      { "Sat": "4:00 PM - 10:00 PM" },
+      { "Sun": "4:00 PM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.763543, "longitude": -122.400357 }
+  },
+  {
+    "name": "Dalida",
+    "visited": false,
+    "rating": "4.7 ",
+    "href": "/biz/dalida-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "Closed" },
+      { "Wed": "5:00 PM - 9:00 PM" },
+      { "Thu": "5:00 PM - 9:00 PM" },
+      { "Fri": "5:00 PM - 9:00 PM" },
+      { "Sat": "5:00 PM - 9:00 PM" },
+      { "Sun": "5:00 PM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.800035, "longitude": -122.45958 }
+  },
+  {
+    "name": "Heroic Italian",
+    "visited": false,
+    "rating": "4.6 ",
+    "href": "/biz/heroic-italian-san-francisco-3?osq=Restaurants",
+    "times": [
+      { "Mon": "11:30 AM - 3:00 PM" },
+      { "Tue": "11:30 AM - 8:00 PM" },
+      { "Wed": "11:30 AM - 8:00 PM" },
+      { "Thu": "11:30 AM - 8:00 PM" },
+      { "Fri": "11:30 AM - 8:00 PM" },
+      { "Sat": "11:30 AM - 8:00 PM" },
+      { "Sun": "11:30 AM - 8:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.75977, "longitude": -122.435133 }
+  },
+  {
+    "name": "Vive La Tarte",
+    "visited": false,
+    "rating": "4.3 ",
+    "href": "/biz/vive-la-tarte-san-francisco-5?osq=Restaurants",
+    "times": [
+      { "Mon": "8:00 AM - 2:00 PM" },
+      { "Tue": "8:00 AM - 2:00 PM" },
+      { "Wed": "8:00 AM - 2:00 PM" },
+      { "Thu": "8:00 AM - 2:00 PM" },
+      { "Fri": "8:00 AM - 2:00 PM" },
+      { "Sat": "8:00 AM - 2:00 PM" },
+      { "Sun": "8:00 AM - 2:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.751477, "longitude": -122.432601 }
+  },
+  {
+    "name": "Bacco",
+    "visited": false,
+    "rating": "4.2 ",
+    "href": "/biz/bacco-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "5:00 PM - 8:30 PM" },
+      { "Wed": "5:00 PM - 8:30 PM" },
+      { "Thu": "5:00 PM - 8:30 PM" },
+      { "Fri": "11:30 AM - 2:30 PM" },
+      { "Sat": "11:30 AM - 2:30 PM" },
+      { "Sun": "11:30 AM - 2:30 PM" }
+    ],
+    "coordinates": { "latitude": 37.751467, "longitude": -122.430042 }
+  },
+  {
+    "name": "Firefly Restaurant",
+    "visited": false,
+    "rating": "4.2 ",
+    "href": "/biz/firefly-restaurant-san-francisco-4?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "5:30 PM - 8:30 PM" },
+      { "Wed": "5:30 PM - 8:30 PM" },
+      { "Thu": "5:30 PM - 8:30 PM" },
+      { "Fri": "5:30 PM - 8:30 PM" },
+      { "Sat": "5:30 PM - 8:30 PM" },
+      { "Sun": "Closed" }
+    ],
+    "coordinates": { "latitude": 37.751206, "longitude": -122.438189 }
+  },
+  {
+    "name": "Andina",
+    "visited": false,
+    "rating": "5.0 ",
+    "href": "/biz/andina-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "Closed" },
+      { "Wed": "11:00 AM - 3:00 PM" },
+      { "Thu": "11:00 AM - 3:00 PM" },
+      { "Fri": "11:00 AM - 3:00 PM" },
+      { "Sat": "11:00 AM - 3:00 PM" },
+      { "Sun": "11:00 AM - 3:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.776231, "longitude": -122.421605 }
+  },
+  {
+    "name": "Vixi",
+    "visited": false,
+    "rating": "4.0 ",
+    "href": "/biz/vixi-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "4:00 PM - 9:00 PM" },
+      { "Tue": "4:00 PM - 9:00 PM" },
+      { "Wed": "4:00 PM - 9:00 PM" },
+      { "Thu": "4:00 PM - 9:00 PM" },
+      { "Fri": "4:00 PM - 9:00 PM" },
+      { "Sat": "4:00 PM - 9:00 PM" },
+      { "Sun": "4:00 PM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.786136, "longitude": -122.45367 }
+  },
+  {
+    "name": "Copas",
+    "visited": false,
+    "rating": "4.4 ",
+    "href": "/biz/copas-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "Closed" },
+      { "Wed": "3:00 PM - 9:00 PM" },
+      { "Thu": "3:00 PM - 9:00 PM" },
+      { "Fri": "12:00 PM - 9:00 PM" },
+      { "Sat": "11:00 AM - 9:00 PM" },
+      { "Sun": "11:00 AM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.765121, "longitude": -122.431377 }
+  },
+  {
+    "name": "Cafe Réveille",
+    "visited": false,
+    "rating": "3.8 ",
+    "href": "/biz/cafe-r%C3%A9veille-san-francisco-8?osq=Restaurants",
+    "times": [
+      { "Mon": "7:00 AM - 7:30 PM" },
+      { "Tue": "7:00 AM - 7:30 PM" },
+      { "Wed": "7:00 AM - 7:30 PM" },
+      { "Thu": "7:00 AM - 7:30 PM" },
+      { "Fri": "7:00 AM - 7:30 PM" },
+      { "Sat": "7:00 AM - 7:30 PM" },
+      { "Sun": "7:00 AM - 7:30 PM" }
+    ],
+    "coordinates": { "latitude": 37.771055, "longitude": -122.432099 }
+  },
+  {
+    "name": "Hoshinoya",
+    "visited": false,
+    "rating": "4.2 ",
+    "href": "/biz/hoshinoya-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "11:30 AM - 4:00 PM" },
+      { "Wed": "11:30 AM - 4:00 PM" },
+      { "Thu": "11:30 AM - 4:00 PM" },
+      { "Fri": "11:30 AM - 4:00 PM" },
+      { "Sat": "11:00 AM - 9:30 PM" },
+      { "Sun": "11:00 AM - 8:30 PM" }
+    ],
+    "coordinates": { "latitude": 37.786186, "longitude": -122.429715 }
+  },
+  {
+    "name": "Hodala",
+    "visited": false,
+    "rating": "4.1 ",
+    "href": "/biz/hodala-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "12:00 PM - 10:00 PM" },
+      { "Tue": "Closed" },
+      { "Wed": "12:00 PM - 10:00 PM" },
+      { "Thu": "12:00 PM - 10:00 PM" },
+      { "Fri": "12:00 PM - 10:00 PM" },
+      { "Sat": "12:00 PM - 10:00 PM" },
+      { "Sun": "12:00 PM - 10:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.780005, "longitude": -122.481684 }
+  },
+  {
+    "name": "MaMa Ji’s - Temp. CLOSED",
+    "visited": false,
+    "rating": "3.8 ",
+    "href": "/biz/mama-jis-san-francisco-2?osq=Restaurants",
+    "times": [],
+    "coordinates": { "latitude": 37.760784, "longitude": -122.438718 }
+  },
+  {
+    "name": "Original Joe’s",
+    "visited": false,
+    "rating": "4.1 ",
+    "href": "/biz/original-joes-san-francisco-3?osq=Restaurants",
+    "times": [
+      { "Mon": "4:00 PM - 10:00 PM" },
+      { "Tue": "4:00 PM - 10:00 PM" },
+      { "Wed": "4:00 PM - 10:00 PM" },
+      { "Thu": "4:00 PM - 10:00 PM" },
+      { "Fri": "11:30 AM - 10:00 PM" },
+      { "Sat": "10:00 AM - 10:00 PM" },
+      { "Sun": "10:00 AM - 10:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.800249, "longitude": -122.40934 }
+  },
+  {
+    "name": "Picaro",
+    "visited": false,
+    "rating": "3.9 ",
+    "href": "/biz/picaro-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "4:00 PM - 10:00 PM" },
+      { "Tue": "4:00 PM - 10:00 PM" },
+      { "Wed": "4:00 PM - 10:00 PM" },
+      { "Thu": "4:00 PM - 10:00 PM" },
+      { "Fri": "1:00 PM - 10:00 PM" },
+      { "Sat": "1:00 PM - 10:00 PM" },
+      { "Sun": "1:00 PM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.765078, "longitude": -122.422522 }
+  },
+  {
+    "name": "Burma Love",
+    "visited": false,
+    "rating": "4.0 ",
+    "href": "/biz/burma-love-san-francisco-10?osq=Restaurants",
+    "times": [
+      { "Mon": "11:30 AM - 3:00 PM" },
+      { "Tue": "11:30 AM - 3:00 PM" },
+      { "Wed": "11:30 AM - 3:00 PM" },
+      { "Thu": "11:30 AM - 3:00 PM" },
+      { "Fri": "11:30 AM - 3:00 PM" },
+      { "Sat": "11:30 AM - 10:30 PM" },
+      { "Sun": "11:30 AM - 10:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.769608, "longitude": -122.422099 }
+  },
+  {
+    "name": "Sisterita",
+    "visited": false,
+    "rating": "4.7 ",
+    "href": "/biz/sisterita-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "8:00 AM - 2:30 PM" },
+      { "Tue": "8:00 AM - 2:30 PM" },
+      { "Wed": "8:00 AM - 2:30 PM" },
+      { "Thu": "8:00 AM - 2:30 PM" },
+      { "Fri": "8:00 AM - 2:30 PM" },
+      { "Sat": "8:00 AM - 2:30 PM" },
+      { "Sun": "8:00 AM - 2:30 PM" }
+    ],
+    "coordinates": { "latitude": 37.794004, "longitude": -122.404193 }
+  },
+  {
+    "name": "Taniku Izakaya",
+    "visited": false,
+    "rating": "4.9 ",
+    "href": "/biz/taniku-izakaya-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "4:30 PM - 10:00 PM" },
+      { "Tue": "4:30 PM - 10:00 PM" },
+      { "Wed": "4:30 PM - 12:00 AM (Next day)" },
+      { "Thu": "4:30 PM - 12:00 AM (Next day)" },
+      { "Fri": "4:30 PM - 12:00 AM (Next day)" },
+      { "Sat": "4:30 PM - 12:00 AM (Next day)" },
+      { "Sun": "4:30 PM - 9:30 PM" }
+    ],
+    "coordinates": { "latitude": 37.785656, "longitude": -122.420457 }
+  },
+  {
+    "name": "ABACÁ",
+    "visited": false,
+    "rating": "4.0 ",
+    "href": "/biz/abac%C3%A1-san-francisco-3?osq=Restaurants",
+    "times": [
+      { "Mon": "7:00 AM - 10:00 AM" },
+      { "Tue": "7:00 AM - 10:00 AM" },
+      { "Wed": "7:00 AM - 10:00 AM" },
+      { "Thu": "7:00 AM - 10:00 AM" },
+      { "Fri": "7:00 AM - 10:00 AM" },
+      { "Sat": "8:00 AM - 1:00 PM" },
+      { "Sun": "8:00 AM - 1:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.806737, "longitude": -122.416937 }
+  },
+  {
+    "name": "Bonita Taqueria Y Rotisserie",
+    "visited": false,
+    "rating": "4.4 ",
+    "href": "/biz/bonita-taqueria-y-rotisserie-san-francisco-3?osq=Restaurants",
+    "times": [
+      { "Mon": "11:00 AM - 9:00 PM" },
+      { "Tue": "11:00 AM - 9:00 PM" },
+      { "Wed": "11:00 AM - 9:00 PM" },
+      { "Thu": "11:00 AM - 9:00 PM" },
+      { "Fri": "11:00 AM - 9:00 PM" },
+      { "Sat": "10:00 AM - 9:00 PM" },
+      { "Sun": "10:00 AM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.764341, "longitude": -122.433568 }
+  },
+  {
+    "name": "Inle Burmese Cuisine",
+    "visited": false,
+    "rating": "4.2 ",
+    "href": "/biz/inle-burmese-cuisine-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "11:00 AM - 9:00 PM" },
+      { "Wed": "11:00 AM - 9:00 PM" },
+      { "Thu": "11:00 AM - 9:00 PM" },
+      { "Fri": "11:00 AM - 9:00 PM" },
+      { "Sat": "11:00 AM - 9:00 PM" },
+      { "Sun": "11:00 AM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.764184, "longitude": -122.466804 }
+  },
+  {
+    "name": "Nara Restaurant &amp; Sake Bar",
+    "visited": false,
+    "rating": "4.6 ",
+    "href": "/biz/nara-restaurant-and-sake-bar-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "5:00 PM - 11:00 PM" },
+      { "Tue": "5:00 PM - 11:00 PM" },
+      { "Wed": "5:00 PM - 11:00 PM" },
+      { "Thu": "5:00 PM - 11:00 PM" },
+      { "Fri": "5:00 PM - 11:00 PM" },
+      { "Sat": "5:00 PM - 11:00 PM" },
+      { "Sun": "5:00 PM - 11:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.772178, "longitude": -122.430891 }
+  },
+  {
+    "name": "Billingsgate",
+    "visited": false,
+    "rating": "4.5 ",
+    "href": "/biz/billingsgate-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "10:00 AM - 7:00 PM" },
+      { "Wed": "10:00 AM - 7:00 PM" },
+      { "Thu": "10:00 AM - 7:00 PM" },
+      { "Fri": "10:00 AM - 7:00 PM" },
+      { "Sat": "9:00 AM - 7:00 PM" },
+      { "Sun": "10:00 AM - 7:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.751541, "longitude": -122.428795 }
+  },
+  {
+    "name": "Bay Pocha",
+    "visited": false,
+    "rating": "4.1 ",
+    "href": "/biz/bay-pocha-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "11:00 AM - 2:00 PM" },
+      { "Tue": "11:00 AM - 2:00 PM" },
+      { "Wed": "11:00 AM - 2:00 PM" },
+      { "Thu": "11:00 AM - 2:00 PM" },
+      { "Fri": "11:00 AM - 2:00 PM" },
+      { "Sat": "5:00 PM - 1:00 AM (Next day)" },
+      { "Sun": "5:00 PM - 12:00 AM (Next day)" }
+    ],
+    "coordinates": { "latitude": 37.73216, "longitude": -122.473818 }
+  },
+  {
+    "name": "Odumak",
+    "visited": false,
+    "rating": "3.9 ",
+    "href": "/biz/odumak-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "5:30 PM - 11:00 PM" },
+      { "Tue": "Closed" },
+      { "Wed": "5:30 PM - 11:00 PM" },
+      { "Thu": "5:30 PM - 11:00 PM" },
+      { "Fri": "5:30 PM - 12:00 AM (Next day)" },
+      { "Sat": "5:30 PM - 12:00 AM (Next day)" },
+      { "Sun": "5:30 PM - 11:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.742881, "longitude": -122.474144 }
+  },
+  {
+    "name": "San Tung - Temp. CLOSED",
+    "visited": false,
+    "rating": "4.1 ",
+    "href": "/biz/san-tung-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "11:00 AM - 3:00 PM" },
+      { "Tue": "Closed" },
+      { "Wed": "Closed" },
+      { "Thu": "11:00 AM - 3:00 PM" },
+      { "Fri": "11:00 AM - 3:00 PM" },
+      { "Sat": "11:00 AM - 3:00 PM" },
+      { "Sun": "11:00 AM - 3:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.763783, "longitude": -122.469007 }
+  },
+  {
+    "name": "Café de Olla",
+    "visited": false,
+    "rating": "4.8 ",
+    "href": "/biz/caf%C3%A9-de-olla-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "8:00 AM - 6:00 PM" },
+      { "Wed": "8:00 AM - 6:00 PM" },
+      { "Thu": "8:00 AM - 6:00 PM" },
+      { "Fri": "8:00 AM - 8:00 PM" },
+      { "Sat": "9:00 AM - 8:00 PM" },
+      { "Sun": "Closed" }
+    ],
+    "coordinates": { "latitude": 37.760372, "longitude": -122.418866 }
+  },
+  {
+    "name": "Pork Store Cafe",
+    "visited": false,
+    "rating": "4.0 ",
+    "href": "/biz/pork-store-cafe-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "8:00 AM - 2:00 PM" },
+      { "Tue": "8:00 AM - 2:00 PM" },
+      { "Wed": "8:00 AM - 2:00 PM" },
+      { "Thu": "8:00 AM - 2:00 PM" },
+      { "Fri": "8:00 AM - 2:00 PM" },
+      { "Sat": "8:00 AM - 3:00 PM" },
+      { "Sun": "8:00 AM - 3:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.770002, "longitude": -122.446253 }
+  },
+  {
+    "name": "Barnzu",
+    "visited": false,
+    "rating": "5.0 ",
+    "href": "/biz/barnzu-san-francisco-5?osq=Restaurants",
+    "times": [
+      { "Mon": "Closed" },
+      { "Tue": "12:00 PM - 3:00 PM" },
+      { "Wed": "12:00 PM - 3:00 PM" },
+      { "Thu": "12:00 PM - 3:00 PM" },
+      { "Fri": "12:00 PM - 3:00 PM" },
+      { "Sat": "12:00 PM - 3:00 PM" },
+      { "Sun": "Closed" }
+    ],
+    "coordinates": { "latitude": 37.797639, "longitude": -122.429773 }
+  },
+  {
+    "name": "Delarosa Marina",
+    "visited": false,
+    "rating": "4.0 ",
+    "href": "/biz/delarosa-marina-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "11:30 AM - 9:30 PM" },
+      { "Tue": "11:30 AM - 9:30 PM" },
+      { "Wed": "11:30 AM - 9:30 PM" },
+      { "Thu": "11:30 AM - 9:30 PM" },
+      { "Fri": "11:30 AM - 10:30 PM" },
+      { "Sat": "11:00 AM - 10:30 PM" },
+      { "Sun": "11:00 AM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.800287, "longitude": -122.43911 }
+  },
+  {
+    "name": "Cielito Lindo",
+    "visited": false,
+    "rating": "4.4 ",
+    "href": "/biz/cielito-lindo-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "8:30 AM - 7:30 PM" },
+      { "Tue": "8:30 AM - 7:30 PM" },
+      { "Wed": "8:30 AM - 7:30 PM" },
+      { "Thu": "8:30 AM - 7:30 PM" },
+      { "Fri": "8:30 AM - 7:30 PM" },
+      { "Sat": "8:30 AM - 7:30 PM" },
+      { "Sun": "8:30 AM - 7:30 PM" }
+    ],
+    "coordinates": { "latitude": 37.775988, "longitude": -122.496042 }
+  },
+  {
+    "name": "Eats",
+    "visited": false,
+    "rating": "3.9 ",
+    "href": "/biz/eats-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "8:00 AM - 2:00 PM" },
+      { "Tue": "Closed" },
+      { "Wed": "8:00 AM - 2:00 PM" },
+      { "Thu": "8:00 AM - 2:00 PM" },
+      { "Fri": "8:00 AM - 2:00 PM" },
+      { "Sat": "8:00 AM - 2:00 PM" },
+      { "Sun": "8:00 AM - 2:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.783287, "longitude": -122.460022 }
+  },
+  {
+    "name": "Kaiju Eats Ramen and Izakaya",
+    "visited": false,
+    "rating": "4.0 ",
+    "href": "/biz/kaiju-eats-ramen-and-izakaya-san-francisco-3?osq=Restaurants",
+    "times": [
+      { "Mon": "11:30 AM - 2:30 PM" },
+      { "Tue": "11:30 AM - 2:30 PM" },
+      { "Wed": "11:30 AM - 2:30 PM" },
+      { "Thu": "11:30 AM - 2:30 PM" },
+      { "Fri": "11:30 AM - 2:30 PM" },
+      { "Sat": "12:00 PM - 3:00 PM" },
+      { "Sun": "12:00 PM - 3:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.781106, "longitude": -122.455533 }
+  },
+  {
+    "name": "Che Fico Alimentari",
+    "visited": false,
+    "rating": "4.1 ",
+    "href": "/biz/che-fico-alimentari-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "5:30 PM - 9:00 PM" },
+      { "Tue": "5:30 PM - 9:00 PM" },
+      { "Wed": "5:30 PM - 9:00 PM" },
+      { "Thu": "5:30 PM - 9:00 PM" },
+      { "Fri": "5:30 PM - 9:30 PM" },
+      { "Sat": "5:30 PM - 9:30 PM" },
+      { "Sun": "5:30 PM - 9:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.777467, "longitude": -122.437936 }
+  },
+  {
+    "name": "Home Plate",
+    "visited": false,
+    "rating": "4.0 ",
+    "href": "/biz/home-plate-san-francisco?osq=Restaurants",
+    "times": [
+      { "Mon": "7:00 AM - 2:00 PM" },
+      { "Tue": "7:00 AM - 2:00 PM" },
+      { "Wed": "7:00 AM - 2:00 PM" },
+      { "Thu": "7:00 AM - 2:00 PM" },
+      { "Fri": "7:00 AM - 2:00 PM" },
+      { "Sat": "7:00 AM - 3:00 PM" },
+      { "Sun": "7:00 AM - 3:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.799905, "longitude": -122.43717 }
+  },
+  {
+    "name": "Radhaus",
+    "visited": false,
+    "rating": "4.1 ",
+    "href": "/biz/radhaus-san-francisco-4?osq=Restaurants",
+    "times": [
+      { "Mon": "12:00 PM - 9:00 PM" },
+      { "Tue": "12:00 PM - 9:00 PM" },
+      { "Wed": "12:00 PM - 9:00 PM" },
+      { "Thu": "12:00 PM - 9:00 PM" },
+      { "Fri": "12:00 PM - 10:00 PM" },
+      { "Sat": "11:00 AM - 10:00 PM" },
+      { "Sun": "10:00 AM - 8:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.806722, "longitude": -122.431347 }
+  },
+  {
+    "name": "Lapisara Eatery",
+    "visited": false,
+    "rating": "4.6 ",
+    "href": "/biz/lapisara-eatery-san-francisco-2?osq=Restaurants",
+    "times": [
+      { "Mon": "8:00 AM - 2:00 PM" },
+      { "Tue": "8:00 AM - 2:00 PM" },
+      { "Wed": "8:00 AM - 2:00 PM" },
+      { "Thu": "8:00 AM - 2:00 PM" },
+      { "Fri": "8:00 AM - 2:00 PM" },
+      { "Sat": "8:00 AM - 2:00 PM" },
+      { "Sun": "8:00 AM - 2:00 PM" }
+    ],
+    "coordinates": { "latitude": 37.787851, "longitude": -122.413231 }
   }
 ]

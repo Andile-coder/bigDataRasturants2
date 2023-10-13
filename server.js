@@ -5,7 +5,7 @@ const cors = require("cors");
 
 app.use(cors());
 app.use(express.json());
-let resturants;
+let resturants=[];
 
 app.get("/resturants", (req, res) => {
   res.status(200).json(resturants);

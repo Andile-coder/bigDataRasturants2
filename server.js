@@ -1,10 +1,11 @@
 const express = require("express");
-const cors = require("cors");
 require("dotenv").config();
 const app = express();
+const cors = require("cors");
 
-let resturants;
 app.use(cors());
+app.use(express.json());
+let resturants;
 
 app.get("/resturants", (req, res) => {
   res.status(200).json(resturants);
